@@ -1,0 +1,1131 @@
+{"question": "Please give me an explanation about ``Breaking Dawn''.", "entity": "Breaking Dawn", "category": "books", "complexityType": "ordinal", "q_id": 0}
+{"question": "Please give me an explanation about ``U2''.", "entity": "U2", "category": "music", "complexityType": "generic", "q_id": 1}
+{"question": "Please give me an explanation about ``James Ivory''.", "entity": "James Ivory", "category": "movies", "complexityType": "superlative", "q_id": 2}
+{"question": "Please give me an explanation about ``Super Mario Kart, Mario Kart 64, Mario Kart: Super Circuit, Mario Kart: Double Dash!!, Mario Kart DS, Mario Kart Wii, Mario Kart 7, Mario Kart Arcade, Mario Kart Home Circuit''.", "entity": "Super Mario Kart, Mario Kart 64, Mario Kart: Super Circuit, Mario Kart: Double Dash!!, Mario Kart DS, Mario Kart Wii, Mario Kart 7, Mario Kart Arcade, Mario Kart Home Circuit", "category": "videogames", "complexityType": "difference", "q_id": 3}
+{"question": "Please give me an explanation about ``A Game of Thrones''.", "entity": "A Game of Thrones", "category": "books", "complexityType": "intersection", "q_id": 4}
+{"question": "Please give me an explanation about ``Super Bowl XL, Super Bowl XLIX''.", "entity": "Super Bowl XL, Super Bowl XLIX", "category": "sports", "complexityType": "difference", "q_id": 5}
+{"question": "Please give me an explanation about ``Simone Biles''.", "entity": "Simone Biles", "category": "sports", "complexityType": "difference", "q_id": 6}
+{"question": "Please give me an explanation about ``You Only Live Twice''.", "entity": "You Only Live Twice", "category": "movies", "complexityType": "difference", "q_id": 7}
+{"question": "Please give me an explanation about ``Bad Boys for Life''.", "entity": "Bad Boys for Life", "category": "movies", "complexityType": "difference", "q_id": 8}
+{"question": "Please give me an explanation about ``Brendan Fraser''.", "entity": "Brendan Fraser", "category": "movies", "complexityType": "difference", "q_id": 9}
+{"question": "Please give me an explanation about ``Pulp Fiction''.", "entity": "Pulp Fiction", "category": "movies", "complexityType": "difference", "q_id": 10}
+{"question": "Please give me an explanation about ``Rebel Without a Cause''.", "entity": "Rebel Without a Cause", "category": "movies", "complexityType": "difference", "q_id": 11}
+{"question": "Please give me an explanation about ``Pieces of a Woman''.", "entity": "Pieces of a Woman", "category": "movies", "complexityType": "difference", "q_id": 12}
+{"question": "Please give me an explanation about ``Alien Vs. Predator''.", "entity": "Alien Vs. Predator", "category": "movies", "complexityType": "difference", "q_id": 13}
+{"question": "Please give me an explanation about ``Back to the Future, and Back to the Future Part III''.", "entity": "Back to the Future, and Back to the Future Part III", "category": "movies", "complexityType": "difference", "q_id": 14}
+{"question": "Please give me an explanation about ``Mank''.", "entity": "Mank", "category": "movies", "complexityType": "difference", "q_id": 15}
+{"question": "Please give me an explanation about ``Jurassic Park''.", "entity": "Jurassic Park", "category": "movies", "complexityType": "difference", "q_id": 16}
+{"question": "Please give me an explanation about ``Iron Man 1''.", "entity": "Iron Man 1", "category": "movies", "complexityType": "difference", "q_id": 17}
+{"question": "Please give me an explanation about ``Skyfall, The Spy Who Loved Me''.", "entity": "Skyfall, The Spy Who Loved Me", "category": "movies", "complexityType": "difference", "q_id": 18}
+{"question": "Please give me an explanation about ``Field of Dreams''.", "entity": "Field of Dreams", "category": "movies", "complexityType": "difference", "q_id": 19}
+{"question": "Please give me an explanation about ``Elizabeth''.", "entity": "Elizabeth", "category": "movies", "complexityType": "difference", "q_id": 20}
+{"question": "Please give me an explanation about ``Martin Scorsese''.", "entity": "Martin Scorsese", "category": "movies", "complexityType": "intersection", "q_id": 21}
+{"question": "Please give me an explanation about ``Scarlett Johansson''.", "entity": "Scarlett Johansson", "category": "movies", "complexityType": "intersection", "q_id": 22}
+{"question": "Please give me an explanation about ``Rosemary Clooney''.", "entity": "Rosemary Clooney", "category": "movies", "complexityType": "intersection", "q_id": 23}
+{"question": "Please give me an explanation about ``Her''.", "entity": "Her", "category": "movies", "complexityType": "intersection", "q_id": 24}
+{"question": "Please give me an explanation about ``Rocky''.", "entity": "Rocky", "category": "movies", "complexityType": "intersection", "q_id": 25}
+{"question": "Please give me an explanation about ``Wilson Phillips''.", "entity": "Wilson Phillips", "category": "movies", "complexityType": "intersection", "q_id": 26}
+{"question": "Please give me an explanation about ``Emmas Stone''.", "entity": "Emmas Stone", "category": "movies", "complexityType": "intersection", "q_id": 27}
+{"question": "Please give me an explanation about ``An American Tail: Fievel Goes West''.", "entity": "An American Tail: Fievel Goes West", "category": "movies", "complexityType": "intersection", "q_id": 28}
+{"question": "Please give me an explanation about ``Mr. Coccotti was played by who in the movie True Romance?''.", "entity": "Mr. Coccotti was played by who in the movie True Romance?", "category": "movies", "complexityType": "intersection", "q_id": 29}
+{"question": "Please give me an explanation about ``The Godfather''.", "entity": "The Godfather", "category": "movies", "complexityType": "intersection", "q_id": 30}
+{"question": "Please give me an explanation about ``Tom Holland''.", "entity": "Tom Holland", "category": "movies", "complexityType": "intersection", "q_id": 31}
+{"question": "Please give me an explanation about ``American Graffiti''.", "entity": "American Graffiti", "category": "movies", "complexityType": "intersection", "q_id": 32}
+{"question": "Please give me an explanation about ``The Sandlot''.", "entity": "The Sandlot", "category": "movies", "complexityType": "intersection", "q_id": 33}
+{"question": "Please give me an explanation about ``American History X''.", "entity": "American History X", "category": "movies", "complexityType": "intersection", "q_id": 34}
+{"question": "Please give me an explanation about ``Mark Wahlberg''.", "entity": "Mark Wahlberg", "category": "movies", "complexityType": "intersection", "q_id": 35}
+{"question": "Please give me an explanation about ``McFarland, USA''.", "entity": "McFarland, USA", "category": "movies", "complexityType": "intersection", "q_id": 36}
+{"question": "Please give me an explanation about ``Donnie Wahlberg''.", "entity": "Donnie Wahlberg", "category": "movies", "complexityType": "intersection", "q_id": 37}
+{"question": "Please give me an explanation about ``Guardians of the Galaxy''.", "entity": "Guardians of the Galaxy", "category": "movies", "complexityType": "intersection", "q_id": 38}
+{"question": "Please give me an explanation about ``Lady Gaga''.", "entity": "Lady Gaga", "category": "movies", "complexityType": "intersection", "q_id": 39}
+{"question": "Please give me an explanation about ``Ben Affleck''.", "entity": "Ben Affleck", "category": "movies", "complexityType": "intersection", "q_id": 40}
+{"question": "Please give me an explanation about ``Schindler's List''.", "entity": "Schindler's List", "category": "movies", "complexityType": "intersection", "q_id": 41}
+{"question": "Please give me an explanation about ``Georgia State University''.", "entity": "Georgia State University", "category": "movies", "complexityType": "multihop", "q_id": 42}
+{"question": "Please give me an explanation about ``England''.", "entity": "England", "category": "movies", "complexityType": "multihop", "q_id": 43}
+{"question": "Please give me an explanation about ``Kapuskasing, Canada''.", "entity": "Kapuskasing, Canada", "category": "movies", "complexityType": "multihop", "q_id": 44}
+{"question": "Please give me an explanation about ``Toronto''.", "entity": "Toronto", "category": "movies", "complexityType": "multihop", "q_id": 45}
+{"question": "Please give me an explanation about ``Star Trek IV: The Voyage Home''.", "entity": "Star Trek IV: The Voyage Home", "category": "movies", "complexityType": "ordinal", "q_id": 46}
+{"question": "Please give me an explanation about ``Avengers: Endgame''.", "entity": "Avengers: Endgame", "category": "movies", "complexityType": "ordinal", "q_id": 47}
+{"question": "Please give me an explanation about ``Revenge of the Sith''.", "entity": "Revenge of the Sith", "category": "movies", "complexityType": "ordinal", "q_id": 48}
+{"question": "Please give me an explanation about ``No Time to Die''.", "entity": "No Time to Die", "category": "movies", "complexityType": "ordinal", "q_id": 49}
+{"question": "Please give me an explanation about ``Taps''.", "entity": "Taps", "category": "movies", "complexityType": "ordinal", "q_id": 50}
+{"question": "Please give me an explanation about ``Iron Man''.", "entity": "Iron Man", "category": "movies", "complexityType": "ordinal", "q_id": 51}
+{"question": "Please give me an explanation about ``Star Wars: Episode IV - A New Hope''.", "entity": "Star Wars: Episode IV - A New Hope", "category": "movies", "complexityType": "ordinal", "q_id": 52}
+{"question": "Please give me an explanation about ``Child's Play 2 (1990)''.", "entity": "Child's Play 2 (1990)", "category": "movies", "complexityType": "ordinal", "q_id": 53}
+{"question": "Please give me an explanation about ``The Twilight Saga: New Moon''.", "entity": "The Twilight Saga: New Moon", "category": "movies", "complexityType": "ordinal", "q_id": 54}
+{"question": "Please give me an explanation about ``Sidney Poitier''.", "entity": "Sidney Poitier", "category": "movies", "complexityType": "ordinal", "q_id": 55}
+{"question": "Please give me an explanation about ``The Fellowship of the Ring''.", "entity": "The Fellowship of the Ring", "category": "movies", "complexityType": "ordinal", "q_id": 56}
+{"question": "Please give me an explanation about ``The Secret Life of Pets''.", "entity": "The Secret Life of Pets", "category": "movies", "complexityType": "ordinal", "q_id": 57}
+{"question": "Please give me an explanation about ``Harry Potter and the Sorcerer's Stone''.", "entity": "Harry Potter and the Sorcerer's Stone", "category": "movies", "complexityType": "ordinal", "q_id": 58}
+{"question": "Please give me an explanation about ``Pirates of the Caribbean: Dead Man's Chest''.", "entity": "Pirates of the Caribbean: Dead Man's Chest", "category": "movies", "complexityType": "ordinal", "q_id": 59}
+{"question": "Please give me an explanation about ``Pirates of the Caribbean: On Stranger Tides''.", "entity": "Pirates of the Caribbean: On Stranger Tides", "category": "movies", "complexityType": "ordinal", "q_id": 60}
+{"question": "Please give me an explanation about ``The Hobbit: The Desolation of Smaug''.", "entity": "The Hobbit: The Desolation of Smaug", "category": "movies", "complexityType": "ordinal", "q_id": 61}
+{"question": "Please give me an explanation about ``The Matrix Reloaded''.", "entity": "The Matrix Reloaded", "category": "movies", "complexityType": "superlative", "q_id": 62}
+{"question": "Please give me an explanation about ``Will Smith''.", "entity": "Will Smith", "category": "movies", "complexityType": "superlative", "q_id": 63}
+{"question": "Please give me an explanation about ``Superman''.", "entity": "Superman", "category": "movies", "complexityType": "superlative", "q_id": 64}
+{"question": "Please give me an explanation about ``War and Peace''.", "entity": "War and Peace", "category": "movies", "complexityType": "superlative", "q_id": 65}
+{"question": "Please give me an explanation about ``Fresh Gucamole''.", "entity": "Fresh Gucamole", "category": "movies", "complexityType": "superlative", "q_id": 66}
+{"question": "Please give me an explanation about ``Damien Chazelle''.", "entity": "Damien Chazelle", "category": "movies", "complexityType": "superlative", "q_id": 67}
+{"question": "Please give me an explanation about ``Jack Nicholson''.", "entity": "Jack Nicholson", "category": "movies", "complexityType": "superlative", "q_id": 68}
+{"question": "Please give me an explanation about ``Star Wars: A New Hope''.", "entity": "Star Wars: A New Hope", "category": "movies", "complexityType": "superlative", "q_id": 69}
+{"question": "Please give me an explanation about ``Live Free or Die Hard''.", "entity": "Live Free or Die Hard", "category": "movies", "complexityType": "superlative", "q_id": 70}
+{"question": "Please give me an explanation about ``Die Hard''.", "entity": "Die Hard", "category": "movies", "complexityType": "superlative", "q_id": 71}
+{"question": "Please give me an explanation about ``Bambi II''.", "entity": "Bambi II", "category": "movies", "complexityType": "superlative", "q_id": 72}
+{"question": "Please give me an explanation about ``Season 3''.", "entity": "Season 3", "category": "movies", "complexityType": "superlative", "q_id": 73}
+{"question": "Please give me an explanation about ``Revenge of the Sith''.", "entity": "Revenge of the Sith", "category": "movies", "complexityType": "superlative", "q_id": 74}
+{"question": "Please give me an explanation about ``The Best of Youth''.", "entity": "The Best of Youth", "category": "movies", "complexityType": "superlative", "q_id": 75}
+{"question": "Please give me an explanation about ``The Force Awakens''.", "entity": "The Force Awakens", "category": "movies", "complexityType": "superlative", "q_id": 76}
+{"question": "Please give me an explanation about ``Samuel L. Jackson''.", "entity": "Samuel L. Jackson", "category": "movies", "complexityType": "superlative", "q_id": 77}
+{"question": "Please give me an explanation about ``Harry Potter and the Deathly Hallows – Part 2''.", "entity": "Harry Potter and the Deathly Hallows – Part 2", "category": "movies", "complexityType": "superlative", "q_id": 78}
+{"question": "Please give me an explanation about ``The Rise of Skywalker''.", "entity": "The Rise of Skywalker", "category": "movies", "complexityType": "superlative", "q_id": 79}
+{"question": "Please give me an explanation about ``Katharine Hepburn''.", "entity": "Katharine Hepburn", "category": "movies", "complexityType": "superlative", "q_id": 80}
+{"question": "Please give me an explanation about ``Best Pop Solo Performance''.", "entity": "Best Pop Solo Performance", "category": "music", "complexityType": "difference", "q_id": 81}
+{"question": "Please give me an explanation about ``Top Dog''.", "entity": "Top Dog", "category": "music", "complexityType": "difference", "q_id": 82}
+{"question": "Please give me an explanation about ``\"Creatures Of The Night\"''.", "entity": "\"Creatures Of The Night\"", "category": "music", "complexityType": "difference", "q_id": 83}
+{"question": "Please give me an explanation about ``LeToya Luckett, LaTavia Roberson''.", "entity": "LeToya Luckett, LaTavia Roberson", "category": "music", "complexityType": "difference", "q_id": 84}
+{"question": "Please give me an explanation about ``Jia, Fei''.", "entity": "Jia, Fei", "category": "music", "complexityType": "difference", "q_id": 85}
+{"question": "Please give me an explanation about ``Best Rock Song''.", "entity": "Best Rock Song", "category": "music", "complexityType": "difference", "q_id": 86}
+{"question": "Please give me an explanation about ``Pimp C.''.", "entity": "Pimp C.", "category": "music", "complexityType": "difference", "q_id": 87}
+{"question": "Please give me an explanation about ``Top R&B Song''.", "entity": "Top R&B Song", "category": "music", "complexityType": "difference", "q_id": 88}
+{"question": "Please give me an explanation about ``Producer Of The Year, Classical''.", "entity": "Producer Of The Year, Classical", "category": "music", "complexityType": "difference", "q_id": 89}
+{"question": "Please give me an explanation about ``Heartbreak Hotel''.", "entity": "Heartbreak Hotel", "category": "music", "complexityType": "difference", "q_id": 90}
+{"question": "Please give me an explanation about ``Album of the Year''.", "entity": "Album of the Year", "category": "music", "complexityType": "difference", "q_id": 91}
+{"question": "Please give me an explanation about ``Morten Lindberg''.", "entity": "Morten Lindberg", "category": "music", "complexityType": "difference", "q_id": 92}
+{"question": "Please give me an explanation about ``Record of the Year''.", "entity": "Record of the Year", "category": "music", "complexityType": "difference", "q_id": 93}
+{"question": "Please give me an explanation about ``Record of the Year''.", "entity": "Record of the Year", "category": "music", "complexityType": "difference", "q_id": 94}
+{"question": "Please give me an explanation about ``John Lennon''.", "entity": "John Lennon", "category": "music", "complexityType": "intersection", "q_id": 95}
+{"question": "Please give me an explanation about ``Gwen Stefani''.", "entity": "Gwen Stefani", "category": "music", "complexityType": "intersection", "q_id": 96}
+{"question": "Please give me an explanation about ``Zach Herron''.", "entity": "Zach Herron", "category": "music", "complexityType": "intersection", "q_id": 97}
+{"question": "Please give me an explanation about ``Miley Cyrus''.", "entity": "Miley Cyrus", "category": "music", "complexityType": "intersection", "q_id": 98}
+{"question": "Please give me an explanation about ``Gladys Knight''.", "entity": "Gladys Knight", "category": "music", "complexityType": "intersection", "q_id": 99}
+{"question": "Please give me an explanation about ``Rob Zombie''.", "entity": "Rob Zombie", "category": "music", "complexityType": "intersection", "q_id": 100}
+{"question": "Please give me an explanation about ``Keith Richards''.", "entity": "Keith Richards", "category": "music", "complexityType": "intersection", "q_id": 101}
+{"question": "Please give me an explanation about ``Michael Jackson''.", "entity": "Michael Jackson", "category": "music", "complexityType": "intersection", "q_id": 102}
+{"question": "Please give me an explanation about ``Bing Crosby''.", "entity": "Bing Crosby", "category": "music", "complexityType": "intersection", "q_id": 103}
+{"question": "Please give me an explanation about ``Buddy Nielsen''.", "entity": "Buddy Nielsen", "category": "music", "complexityType": "intersection", "q_id": 104}
+{"question": "Please give me an explanation about ``Tyler, the Creator''.", "entity": "Tyler, the Creator", "category": "music", "complexityType": "intersection", "q_id": 105}
+{"question": "Please give me an explanation about ``Janet Jackson''.", "entity": "Janet Jackson", "category": "music", "complexityType": "intersection", "q_id": 106}
+{"question": "Please give me an explanation about ``James Hetfield''.", "entity": "James Hetfield", "category": "music", "complexityType": "intersection", "q_id": 107}
+{"question": "Please give me an explanation about ``Sour''.", "entity": "Sour", "category": "music", "complexityType": "intersection", "q_id": 108}
+{"question": "Please give me an explanation about ``Scotland''.", "entity": "Scotland", "category": "music", "complexityType": "multihop", "q_id": 109}
+{"question": "Please give me an explanation about ``Warren, Ohio''.", "entity": "Warren, Ohio", "category": "music", "complexityType": "multihop", "q_id": 110}
+{"question": "Please give me an explanation about ``Australia''.", "entity": "Australia", "category": "music", "complexityType": "multihop", "q_id": 111}
+{"question": "Please give me an explanation about ``Pop and Country''.", "entity": "Pop and Country", "category": "music", "complexityType": "multihop", "q_id": 112}
+{"question": "Please give me an explanation about ``Westlife''.", "entity": "Westlife", "category": "music", "complexityType": "ordinal", "q_id": 113}
+{"question": "Please give me an explanation about ``Wolverhampton Civic Hall''.", "entity": "Wolverhampton Civic Hall", "category": "music", "complexityType": "ordinal", "q_id": 114}
+{"question": "Please give me an explanation about ``Grammy Award''.", "entity": "Grammy Award", "category": "music", "complexityType": "ordinal", "q_id": 115}
+{"question": "Please give me an explanation about ``Recovering the Satellites''.", "entity": "Recovering the Satellites", "category": "music", "complexityType": "ordinal", "q_id": 116}
+{"question": "Please give me an explanation about ``L.A. Woman''.", "entity": "L.A. Woman", "category": "music", "complexityType": "ordinal", "q_id": 117}
+{"question": "Please give me an explanation about ``In Utero''.", "entity": "In Utero", "category": "music", "complexityType": "ordinal", "q_id": 118}
+{"question": "Please give me an explanation about ``Master of Puppets''.", "entity": "Master of Puppets", "category": "music", "complexityType": "ordinal", "q_id": 119}
+{"question": "Please give me an explanation about ``Aftermath''.", "entity": "Aftermath", "category": "music", "complexityType": "ordinal", "q_id": 120}
+{"question": "Please give me an explanation about ``Born This Way''.", "entity": "Born This Way", "category": "music", "complexityType": "ordinal", "q_id": 121}
+{"question": "Please give me an explanation about ``Atom Heart Mother''.", "entity": "Atom Heart Mother", "category": "music", "complexityType": "superlative", "q_id": 122}
+{"question": "Please give me an explanation about ``Dear John''.", "entity": "Dear John", "category": "music", "complexityType": "superlative", "q_id": 123}
+{"question": "Please give me an explanation about ``FETTI''.", "entity": "FETTI", "category": "music", "complexityType": "superlative", "q_id": 124}
+{"question": "Please give me an explanation about ``Make Believe''.", "entity": "Make Believe", "category": "music", "complexityType": "superlative", "q_id": 125}
+{"question": "Please give me an explanation about ``The Beatles''.", "entity": "The Beatles", "category": "music", "complexityType": "superlative", "q_id": 126}
+{"question": "Please give me an explanation about ``Sheryl Crow''.", "entity": "Sheryl Crow", "category": "music", "complexityType": "superlative", "q_id": 127}
+{"question": "Please give me an explanation about ``the Beatles''.", "entity": "the Beatles", "category": "music", "complexityType": "superlative", "q_id": 128}
+{"question": "Please give me an explanation about ``Georg Solti''.", "entity": "Georg Solti", "category": "music", "complexityType": "superlative", "q_id": 129}
+{"question": "Please give me an explanation about ``It's Nice to Have a Friend''.", "entity": "It's Nice to Have a Friend", "category": "music", "complexityType": "superlative", "q_id": 130}
+{"question": "Please give me an explanation about ``George Burns''.", "entity": "George Burns", "category": "music", "complexityType": "superlative", "q_id": 131}
+{"question": "Please give me an explanation about ``7empest''.", "entity": "7empest", "category": "music", "complexityType": "superlative", "q_id": 132}
+{"question": "Please give me an explanation about ``Back in Black''.", "entity": "Back in Black", "category": "music", "complexityType": "superlative", "q_id": 133}
+{"question": "Please give me an explanation about ``Thriller by Michael Jackson''.", "entity": "Thriller by Michael Jackson", "category": "music", "complexityType": "superlative", "q_id": 134}
+{"question": "Please give me an explanation about ``Speak to Me''.", "entity": "Speak to Me", "category": "music", "complexityType": "superlative", "q_id": 135}
+{"question": "Please give me an explanation about ``Michael Jackson''.", "entity": "Michael Jackson", "category": "music", "complexityType": "superlative", "q_id": 136}
+{"question": "Please give me an explanation about ``Drake and Kendrick Lamar''.", "entity": "Drake and Kendrick Lamar", "category": "music", "complexityType": "superlative", "q_id": 137}
+{"question": "Please give me an explanation about ``Texans, Lions, Panthers, Falcons, Bengals, Jaguars, Chargers, Vikings, Cardinals, Titans, Browns, Bills.''.", "entity": "Texans, Lions, Panthers, Falcons, Bengals, Jaguars, Chargers, Vikings, Cardinals, Titans, Browns, Bills.", "category": "sports", "complexityType": "difference", "q_id": 138}
+{"question": "Please give me an explanation about ``Paul McGrath''.", "entity": "Paul McGrath", "category": "sports", "complexityType": "difference", "q_id": 139}
+{"question": "Please give me an explanation about ``The Masters''.", "entity": "The Masters", "category": "sports", "complexityType": "difference", "q_id": 140}
+{"question": "Please give me an explanation about ``Cleveland Browns''.", "entity": "Cleveland Browns", "category": "sports", "complexityType": "difference", "q_id": 141}
+{"question": "Please give me an explanation about ``1972 Miami dolphins''.", "entity": "1972 Miami dolphins", "category": "sports", "complexityType": "difference", "q_id": 142}
+{"question": "Please give me an explanation about ``1 Super Bowl XXXII''.", "entity": "1 Super Bowl XXXII", "category": "sports", "complexityType": "difference", "q_id": 143}
+{"question": "Please give me an explanation about ``Peyton and Archie Manning''.", "entity": "Peyton and Archie Manning", "category": "sports", "complexityType": "intersection", "q_id": 144}
+{"question": "Please give me an explanation about ``East Tennessee State University''.", "entity": "East Tennessee State University", "category": "sports", "complexityType": "intersection", "q_id": 145}
+{"question": "Please give me an explanation about ``Michael Jordan''.", "entity": "Michael Jordan", "category": "sports", "complexityType": "intersection", "q_id": 146}
+{"question": "Please give me an explanation about ``Chicago Sky''.", "entity": "Chicago Sky", "category": "sports", "complexityType": "intersection", "q_id": 147}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "intersection", "q_id": 148}
+{"question": "Please give me an explanation about ``Rams''.", "entity": "Rams", "category": "sports", "complexityType": "intersection", "q_id": 149}
+{"question": "Please give me an explanation about ``The Chicago Blackhawks''.", "entity": "The Chicago Blackhawks", "category": "sports", "complexityType": "intersection", "q_id": 150}
+{"question": "Please give me an explanation about ``The Indiana Pacers''.", "entity": "The Indiana Pacers", "category": "sports", "complexityType": "intersection", "q_id": 151}
+{"question": "Please give me an explanation about ``Tampa Bay Rays''.", "entity": "Tampa Bay Rays", "category": "sports", "complexityType": "intersection", "q_id": 152}
+{"question": "Please give me an explanation about ``Cleveland Cavaliers''.", "entity": "Cleveland Cavaliers", "category": "sports", "complexityType": "intersection", "q_id": 153}
+{"question": "Please give me an explanation about ``Kansas City Chiefs''.", "entity": "Kansas City Chiefs", "category": "sports", "complexityType": "intersection", "q_id": 154}
+{"question": "Please give me an explanation about ``Mary, Queen of Scotland''.", "entity": "Mary, Queen of Scotland", "category": "sports", "complexityType": "intersection", "q_id": 155}
+{"question": "Please give me an explanation about ``Deion Sanders''.", "entity": "Deion Sanders", "category": "sports", "complexityType": "intersection", "q_id": 156}
+{"question": "Please give me an explanation about ``Beijing''.", "entity": "Beijing", "category": "sports", "complexityType": "intersection", "q_id": 157}
+{"question": "Please give me an explanation about ``Roy Halladay''.", "entity": "Roy Halladay", "category": "sports", "complexityType": "intersection", "q_id": 158}
+{"question": "Please give me an explanation about ``Michael Jordan''.", "entity": "Michael Jordan", "category": "sports", "complexityType": "intersection", "q_id": 159}
+{"question": "Please give me an explanation about ``Mike Modano''.", "entity": "Mike Modano", "category": "sports", "complexityType": "intersection", "q_id": 160}
+{"question": "Please give me an explanation about ``New England Patriots''.", "entity": "New England Patriots", "category": "sports", "complexityType": "intersection", "q_id": 161}
+{"question": "Please give me an explanation about ``Leo Messi''.", "entity": "Leo Messi", "category": "sports", "complexityType": "intersection", "q_id": 162}
+{"question": "Please give me an explanation about ``Danell Johan Leyva''.", "entity": "Danell Johan Leyva", "category": "sports", "complexityType": "intersection", "q_id": 163}
+{"question": "Please give me an explanation about ``Miami Dolphins''.", "entity": "Miami Dolphins", "category": "sports", "complexityType": "multihop", "q_id": 164}
+{"question": "Please give me an explanation about ``Peter Ueberroth''.", "entity": "Peter Ueberroth", "category": "sports", "complexityType": "multihop", "q_id": 165}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "multihop", "q_id": 166}
+{"question": "Please give me an explanation about ``Stephen Curry''.", "entity": "Stephen Curry", "category": "sports", "complexityType": "multihop", "q_id": 167}
+{"question": "Please give me an explanation about ``Tennessee Titans''.", "entity": "Tennessee Titans", "category": "sports", "complexityType": "multihop", "q_id": 168}
+{"question": "Please give me an explanation about ``Eli Manning''.", "entity": "Eli Manning", "category": "sports", "complexityType": "multihop", "q_id": 169}
+{"question": "Please give me an explanation about ``Don Shula''.", "entity": "Don Shula", "category": "sports", "complexityType": "multihop", "q_id": 170}
+{"question": "Please give me an explanation about ``Samuel Eto'o''.", "entity": "Samuel Eto'o", "category": "sports", "complexityType": "multihop", "q_id": 171}
+{"question": "Please give me an explanation about ``1990 U.S. Open''.", "entity": "1990 U.S. Open", "category": "sports", "complexityType": "ordinal", "q_id": 172}
+{"question": "Please give me an explanation about ``Kansas City Chiefs''.", "entity": "Kansas City Chiefs", "category": "sports", "complexityType": "ordinal", "q_id": 173}
+{"question": "Please give me an explanation about ``Boston Celtics''.", "entity": "Boston Celtics", "category": "sports", "complexityType": "ordinal", "q_id": 174}
+{"question": "Please give me an explanation about ``Argentinos Juniors''.", "entity": "Argentinos Juniors", "category": "sports", "complexityType": "ordinal", "q_id": 175}
+{"question": "Please give me an explanation about ``New England Patriots''.", "entity": "New England Patriots", "category": "sports", "complexityType": "ordinal", "q_id": 176}
+{"question": "Please give me an explanation about ``the Angels''.", "entity": "the Angels", "category": "sports", "complexityType": "ordinal", "q_id": 177}
+{"question": "Please give me an explanation about ``Houston Astros''.", "entity": "Houston Astros", "category": "sports", "complexityType": "ordinal", "q_id": 178}
+{"question": "Please give me an explanation about ``San Antonio Padres''.", "entity": "San Antonio Padres", "category": "sports", "complexityType": "ordinal", "q_id": 179}
+{"question": "Please give me an explanation about ``Los Angeles Lakers''.", "entity": "Los Angeles Lakers", "category": "sports", "complexityType": "ordinal", "q_id": 180}
+{"question": "Please give me an explanation about ``United States''.", "entity": "United States", "category": "sports", "complexityType": "superlative", "q_id": 181}
+{"question": "Please give me an explanation about ``Robert Parish''.", "entity": "Robert Parish", "category": "sports", "complexityType": "superlative", "q_id": 182}
+{"question": "Please give me an explanation about ``Mike Tomlin''.", "entity": "Mike Tomlin", "category": "sports", "complexityType": "superlative", "q_id": 183}
+{"question": "Please give me an explanation about ``Derrick Rose''.", "entity": "Derrick Rose", "category": "sports", "complexityType": "superlative", "q_id": 184}
+{"question": "Please give me an explanation about ``Giannis Antetokounmpo''.", "entity": "Giannis Antetokounmpo", "category": "sports", "complexityType": "superlative", "q_id": 185}
+{"question": "Please give me an explanation about ``Phil Mickelson''.", "entity": "Phil Mickelson", "category": "sports", "complexityType": "superlative", "q_id": 186}
+{"question": "Please give me an explanation about ``Oscar Gomer Swahn''.", "entity": "Oscar Gomer Swahn", "category": "sports", "complexityType": "superlative", "q_id": 187}
+{"question": "Please give me an explanation about ``Pete Rose''.", "entity": "Pete Rose", "category": "sports", "complexityType": "superlative", "q_id": 188}
+{"question": "Please give me an explanation about ``New England Patriots, Pittsburgh Steelers''.", "entity": "New England Patriots, Pittsburgh Steelers", "category": "sports", "complexityType": "superlative", "q_id": 189}
+{"question": "Please give me an explanation about ``The Montreal Canadiens''.", "entity": "The Montreal Canadiens", "category": "sports", "complexityType": "superlative", "q_id": 190}
+{"question": "Please give me an explanation about ``United States''.", "entity": "United States", "category": "sports", "complexityType": "superlative", "q_id": 191}
+{"question": "Please give me an explanation about ``The New York Yankees''.", "entity": "The New York Yankees", "category": "sports", "complexityType": "superlative", "q_id": 192}
+{"question": "Please give me an explanation about ``United States''.", "entity": "United States", "category": "sports", "complexityType": "superlative", "q_id": 193}
+{"question": "Please give me an explanation about ``Kevin Burke''.", "entity": "Kevin Burke", "category": "sports", "complexityType": "superlative", "q_id": 194}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "superlative", "q_id": 195}
+{"question": "Please give me an explanation about ``Agnes Keleti''.", "entity": "Agnes Keleti", "category": "sports", "complexityType": "superlative", "q_id": 196}
+{"question": "Please give me an explanation about ``Alexandro Costacurta''.", "entity": "Alexandro Costacurta", "category": "sports", "complexityType": "superlative", "q_id": 197}
+{"question": "Please give me an explanation about ``Pescara Circuit in Pescara, Italy''.", "entity": "Pescara Circuit in Pescara, Italy", "category": "sports", "complexityType": "superlative", "q_id": 198}
+{"question": "Please give me an explanation about ``Roger Clemons''.", "entity": "Roger Clemons", "category": "sports", "complexityType": "superlative", "q_id": 199}
+{"question": "Please give me an explanation about ``Rickey Henderson''.", "entity": "Rickey Henderson", "category": "sports", "complexityType": "superlative", "q_id": 200}
+{"question": "Please give me an explanation about ``Kareem Abdul-Jabbar''.", "entity": "Kareem Abdul-Jabbar", "category": "sports", "complexityType": "superlative", "q_id": 201}
+{"question": "Please give me an explanation about ``Mockingjay''.", "entity": "Mockingjay", "category": "books", "complexityType": "difference", "q_id": 202}
+{"question": "Please give me an explanation about ``After the Fall is Over''.", "entity": "After the Fall is Over", "category": "books", "complexityType": "difference", "q_id": 203}
+{"question": "Please give me an explanation about ``Peter and Susan''.", "entity": "Peter and Susan", "category": "books", "complexityType": "difference", "q_id": 204}
+{"question": "Please give me an explanation about ``The Silver Chair, The Horse and His Boy, The Magician's Nephew''.", "entity": "The Silver Chair, The Horse and His Boy, The Magician's Nephew", "category": "books", "complexityType": "difference", "q_id": 205}
+{"question": "Please give me an explanation about ``Magician's Nephew, The Lion The Witch and the Wardrobe, The Horse and His Boy''.", "entity": "Magician's Nephew, The Lion The Witch and the Wardrobe, The Horse and His Boy", "category": "books", "complexityType": "difference", "q_id": 206}
+{"question": "Please give me an explanation about ``Contact''.", "entity": "Contact", "category": "books", "complexityType": "difference", "q_id": 207}
+{"question": "Please give me an explanation about ``Green River Running Red''.", "entity": "Green River Running Red", "category": "books", "complexityType": "difference", "q_id": 208}
+{"question": "Please give me an explanation about ``The Hobbit''.", "entity": "The Hobbit", "category": "books", "complexityType": "difference", "q_id": 209}
+{"question": "Please give me an explanation about ``A Game of Thrones''.", "entity": "A Game of Thrones", "category": "books", "complexityType": "difference", "q_id": 210}
+{"question": "Please give me an explanation about ``Star Wars: From the Adventures of Luke Skywalker''.", "entity": "Star Wars: From the Adventures of Luke Skywalker", "category": "books", "complexityType": "difference", "q_id": 211}
+{"question": "Please give me an explanation about ``New Testament''.", "entity": "New Testament", "category": "books", "complexityType": "difference", "q_id": 212}
+{"question": "Please give me an explanation about ``After Ever Happy, Before''.", "entity": "After Ever Happy, Before", "category": "books", "complexityType": "difference", "q_id": 213}
+{"question": "Please give me an explanation about ``American Grown: The Story of the White House Kitchen Garden and Gardens Across America''.", "entity": "American Grown: The Story of the White House Kitchen Garden and Gardens Across America", "category": "books", "complexityType": "difference", "q_id": 214}
+{"question": "Please give me an explanation about ``Tom Bombadil, Halbarad, Bill Ferny''.", "entity": "Tom Bombadil, Halbarad, Bill Ferny", "category": "books", "complexityType": "difference", "q_id": 215}
+{"question": "Please give me an explanation about ``The Fledgling, A Ring of Endless Light''.", "entity": "The Fledgling, A Ring of Endless Light", "category": "books", "complexityType": "difference", "q_id": 216}
+{"question": "Please give me an explanation about ``Fight Club''.", "entity": "Fight Club", "category": "books", "complexityType": "intersection", "q_id": 217}
+{"question": "Please give me an explanation about ``Chamber of Secrets''.", "entity": "Chamber of Secrets", "category": "books", "complexityType": "intersection", "q_id": 218}
+{"question": "Please give me an explanation about ``Prisoner of Azkaban''.", "entity": "Prisoner of Azkaban", "category": "books", "complexityType": "intersection", "q_id": 219}
+{"question": "Please give me an explanation about ``The Shining''.", "entity": "The Shining", "category": "books", "complexityType": "intersection", "q_id": 220}
+{"question": "Please give me an explanation about ``Better Off Dead''.", "entity": "Better Off Dead", "category": "books", "complexityType": "intersection", "q_id": 221}
+{"question": "Please give me an explanation about ``Lee Child''.", "entity": "Lee Child", "category": "books", "complexityType": "intersection", "q_id": 222}
+{"question": "Please give me an explanation about ``Stephenie Meyer''.", "entity": "Stephenie Meyer", "category": "books", "complexityType": "intersection", "q_id": 223}
+{"question": "Please give me an explanation about ``A Song of Fire and Ice''.", "entity": "A Song of Fire and Ice", "category": "books", "complexityType": "intersection", "q_id": 224}
+{"question": "Please give me an explanation about ``Jacen Solo''.", "entity": "Jacen Solo", "category": "books", "complexityType": "intersection", "q_id": 225}
+{"question": "Please give me an explanation about ``The Hand on the Wall''.", "entity": "The Hand on the Wall", "category": "books", "complexityType": "intersection", "q_id": 226}
+{"question": "Please give me an explanation about ``Colson Whitehead''.", "entity": "Colson Whitehead", "category": "books", "complexityType": "intersection", "q_id": 227}
+{"question": "Please give me an explanation about ``Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs''.", "entity": "Hell's Angels: The Strange and Terrible Saga of the Outlaw Motorcycle Gangs", "category": "books", "complexityType": "intersection", "q_id": 228}
+{"question": "Please give me an explanation about ``A Portrait of the Artist as a Young Man''.", "entity": "A Portrait of the Artist as a Young Man", "category": "books", "complexityType": "intersection", "q_id": 229}
+{"question": "Please give me an explanation about ``Deenie''.", "entity": "Deenie", "category": "books", "complexityType": "intersection", "q_id": 230}
+{"question": "Please give me an explanation about ``The Stand''.", "entity": "The Stand", "category": "books", "complexityType": "intersection", "q_id": 231}
+{"question": "Please give me an explanation about ``Arya Stark''.", "entity": "Arya Stark", "category": "books", "complexityType": "intersection", "q_id": 232}
+{"question": "Please give me an explanation about ``Peter Jackson''.", "entity": "Peter Jackson", "category": "books", "complexityType": "multihop", "q_id": 233}
+{"question": "Please give me an explanation about ``Johnny Depp''.", "entity": "Johnny Depp", "category": "books", "complexityType": "multihop", "q_id": 234}
+{"question": "Please give me an explanation about ``Saint Paul, MN''.", "entity": "Saint Paul, MN", "category": "books", "complexityType": "multihop", "q_id": 235}
+{"question": "Please give me an explanation about ``Peter Jackson''.", "entity": "Peter Jackson", "category": "books", "complexityType": "multihop", "q_id": 236}
+{"question": "Please give me an explanation about ``Peter Jackson''.", "entity": "Peter Jackson", "category": "books", "complexityType": "multihop", "q_id": 237}
+{"question": "Please give me an explanation about ``Warner Bros. Pictures''.", "entity": "Warner Bros. Pictures", "category": "books", "complexityType": "multihop", "q_id": 238}
+{"question": "Please give me an explanation about ``David Slade''.", "entity": "David Slade", "category": "books", "complexityType": "multihop", "q_id": 239}
+{"question": "Please give me an explanation about ``The Mystery of Edwin Drood''.", "entity": "The Mystery of Edwin Drood", "category": "books", "complexityType": "ordinal", "q_id": 240}
+{"question": "Please give me an explanation about ``Bring on the Blessings''.", "entity": "Bring on the Blessings", "category": "books", "complexityType": "ordinal", "q_id": 241}
+{"question": "Please give me an explanation about ``Breaking Dawn''.", "entity": "Breaking Dawn", "category": "books", "complexityType": "ordinal", "q_id": 242}
+{"question": "Please give me an explanation about ``Catching Fire''.", "entity": "Catching Fire", "category": "books", "complexityType": "ordinal", "q_id": 243}
+{"question": "Please give me an explanation about ``Royal Assassin''.", "entity": "Royal Assassin", "category": "books", "complexityType": "ordinal", "q_id": 244}
+{"question": "Please give me an explanation about ``A Clash of Kings''.", "entity": "A Clash of Kings", "category": "books", "complexityType": "ordinal", "q_id": 245}
+{"question": "Please give me an explanation about ``The Rising Force''.", "entity": "The Rising Force", "category": "books", "complexityType": "ordinal", "q_id": 246}
+{"question": "Please give me an explanation about ``Rabbit Redux''.", "entity": "Rabbit Redux", "category": "books", "complexityType": "ordinal", "q_id": 247}
+{"question": "Please give me an explanation about ``The Talisman''.", "entity": "The Talisman", "category": "books", "complexityType": "ordinal", "q_id": 248}
+{"question": "Please give me an explanation about ``The Long Walk''.", "entity": "The Long Walk", "category": "books", "complexityType": "ordinal", "q_id": 249}
+{"question": "Please give me an explanation about ``Down and Out in Paris and London''.", "entity": "Down and Out in Paris and London", "category": "books", "complexityType": "ordinal", "q_id": 250}
+{"question": "Please give me an explanation about ``Der Heizer''.", "entity": "Der Heizer", "category": "books", "complexityType": "ordinal", "q_id": 251}
+{"question": "Please give me an explanation about ``Company K''.", "entity": "Company K", "category": "books", "complexityType": "ordinal", "q_id": 252}
+{"question": "Please give me an explanation about ``The Edible Woman''.", "entity": "The Edible Woman", "category": "books", "complexityType": "ordinal", "q_id": 253}
+{"question": "Please give me an explanation about ``Fear and Loathing in Las Vegas''.", "entity": "Fear and Loathing in Las Vegas", "category": "books", "complexityType": "ordinal", "q_id": 254}
+{"question": "Please give me an explanation about ``Heart of Darkness''.", "entity": "Heart of Darkness", "category": "books", "complexityType": "superlative", "q_id": 255}
+{"question": "Please give me an explanation about ``The Hunger Games''.", "entity": "The Hunger Games", "category": "books", "complexityType": "superlative", "q_id": 256}
+{"question": "Please give me an explanation about ``Psalms''.", "entity": "Psalms", "category": "books", "complexityType": "superlative", "q_id": 257}
+{"question": "Please give me an explanation about ``Eugene O'Neill''.", "entity": "Eugene O'Neill", "category": "books", "complexityType": "superlative", "q_id": 258}
+{"question": "Please give me an explanation about ``Christopher Paolini''.", "entity": "Christopher Paolini", "category": "books", "complexityType": "superlative", "q_id": 259}
+{"question": "Please give me an explanation about ``James Patterson''.", "entity": "James Patterson", "category": "books", "complexityType": "superlative", "q_id": 260}
+{"question": "Please give me an explanation about ``The Hobbit''.", "entity": "The Hobbit", "category": "books", "complexityType": "superlative", "q_id": 261}
+{"question": "Please give me an explanation about ``Catching Fire''.", "entity": "Catching Fire", "category": "books", "complexityType": "superlative", "q_id": 262}
+{"question": "Please give me an explanation about ``Carlisle''.", "entity": "Carlisle", "category": "books", "complexityType": "superlative", "q_id": 263}
+{"question": "Please give me an explanation about ``Twilight''.", "entity": "Twilight", "category": "books", "complexityType": "superlative", "q_id": 264}
+{"question": "Please give me an explanation about ``A Game of Thrones''.", "entity": "A Game of Thrones", "category": "books", "complexityType": "superlative", "q_id": 265}
+{"question": "Please give me an explanation about ``The Hobbit''.", "entity": "The Hobbit", "category": "books", "complexityType": "superlative", "q_id": 266}
+{"question": "Please give me an explanation about ``The Epistle of Jude''.", "entity": "The Epistle of Jude", "category": "books", "complexityType": "superlative", "q_id": 267}
+{"question": "Please give me an explanation about ``Marcia Brown''.", "entity": "Marcia Brown", "category": "books", "complexityType": "superlative", "q_id": 268}
+{"question": "Please give me an explanation about ``Marcia Brown''.", "entity": "Marcia Brown", "category": "books", "complexityType": "superlative", "q_id": 269}
+{"question": "Please give me an explanation about ``Doris Lessing''.", "entity": "Doris Lessing", "category": "books", "complexityType": "superlative", "q_id": 270}
+{"question": "Please give me an explanation about ``The Alchemist''.", "entity": "The Alchemist", "category": "books", "complexityType": "superlative", "q_id": 271}
+{"question": "Please give me an explanation about ``Marcia Brown''.", "entity": "Marcia Brown", "category": "books", "complexityType": "superlative", "q_id": 272}
+{"question": "Please give me an explanation about ``Russia''.", "entity": "Russia", "category": "geography", "complexityType": "difference", "q_id": 273}
+{"question": "Please give me an explanation about ``Oahu''.", "entity": "Oahu", "category": "geography", "complexityType": "difference", "q_id": 274}
+{"question": "Please give me an explanation about ``Kauai, Oahu, Lanai, Hawaii''.", "entity": "Kauai, Oahu, Lanai, Hawaii", "category": "geography", "complexityType": "difference", "q_id": 275}
+{"question": "Please give me an explanation about ``Wyoming, North Dakota, Alaska, and Vermont''.", "entity": "Wyoming, North Dakota, Alaska, and Vermont", "category": "geography", "complexityType": "difference", "q_id": 276}
+{"question": "Please give me an explanation about ``King Fahd International Airport''.", "entity": "King Fahd International Airport", "category": "geography", "complexityType": "difference", "q_id": 277}
+{"question": "Please give me an explanation about ``Colorado\t, New Mexico\t, Utah''.", "entity": "Colorado\t, New Mexico\t, Utah", "category": "geography", "complexityType": "difference", "q_id": 278}
+{"question": "Please give me an explanation about ``Paraguay and Bolivia''.", "entity": "Paraguay and Bolivia", "category": "geography", "complexityType": "difference", "q_id": 279}
+{"question": "Please give me an explanation about ``Hawaii''.", "entity": "Hawaii", "category": "geography", "complexityType": "difference", "q_id": 280}
+{"question": "Please give me an explanation about ``Yangtze–Jinsha–Tongtian–Dangqu''.", "entity": "Yangtze–Jinsha–Tongtian–Dangqu", "category": "geography", "complexityType": "difference", "q_id": 281}
+{"question": "Please give me an explanation about ``Hawaii''.", "entity": "Hawaii", "category": "geography", "complexityType": "difference", "q_id": 282}
+{"question": "Please give me an explanation about ``The Indian Ocean''.", "entity": "The Indian Ocean", "category": "geography", "complexityType": "difference", "q_id": 283}
+{"question": "Please give me an explanation about ``Maryland''.", "entity": "Maryland", "category": "geography", "complexityType": "difference", "q_id": 284}
+{"question": "Please give me an explanation about ``Hawaii''.", "entity": "Hawaii", "category": "geography", "complexityType": "difference", "q_id": 285}
+{"question": "Please give me an explanation about ``Alaska, Hawaii''.", "entity": "Alaska, Hawaii", "category": "geography", "complexityType": "difference", "q_id": 286}
+{"question": "Please give me an explanation about ``Ontario, Nova Scotia, Alberta, British Columbia, Manitoba, Prince Edward Island, Newfoundland and Labrador, Saskatchewan''.", "entity": "Ontario, Nova Scotia, Alberta, British Columbia, Manitoba, Prince Edward Island, Newfoundland and Labrador, Saskatchewan", "category": "geography", "complexityType": "difference", "q_id": 287}
+{"question": "Please give me an explanation about ``K2, Kangchenjunga''.", "entity": "K2, Kangchenjunga", "category": "geography", "complexityType": "difference", "q_id": 288}
+{"question": "Please give me an explanation about ``Indian, Arctic, Southern''.", "entity": "Indian, Arctic, Southern", "category": "geography", "complexityType": "difference", "q_id": 289}
+{"question": "Please give me an explanation about ``California, Arizona''.", "entity": "California, Arizona", "category": "geography", "complexityType": "difference", "q_id": 290}
+{"question": "Please give me an explanation about ``Quebec''.", "entity": "Quebec", "category": "geography", "complexityType": "difference", "q_id": 291}
+{"question": "Please give me an explanation about ``Johannesburg in South Africa''.", "entity": "Johannesburg in South Africa", "category": "geography", "complexityType": "difference", "q_id": 292}
+{"question": "Please give me an explanation about ``Alaska''.", "entity": "Alaska", "category": "geography", "complexityType": "intersection", "q_id": 293}
+{"question": "Please give me an explanation about ``Texas''.", "entity": "Texas", "category": "geography", "complexityType": "intersection", "q_id": 294}
+{"question": "Please give me an explanation about ``Delaware''.", "entity": "Delaware", "category": "geography", "complexityType": "intersection", "q_id": 295}
+{"question": "Please give me an explanation about ``California''.", "entity": "California", "category": "geography", "complexityType": "intersection", "q_id": 296}
+{"question": "Please give me an explanation about ``Wellington, New Zealand''.", "entity": "Wellington, New Zealand", "category": "geography", "complexityType": "intersection", "q_id": 297}
+{"question": "Please give me an explanation about ``Alaska''.", "entity": "Alaska", "category": "geography", "complexityType": "intersection", "q_id": 298}
+{"question": "Please give me an explanation about ``Mount Rushmore''.", "entity": "Mount Rushmore", "category": "geography", "complexityType": "intersection", "q_id": 299}
+{"question": "Please give me an explanation about ``Himalayas''.", "entity": "Himalayas", "category": "geography", "complexityType": "intersection", "q_id": 300}
+{"question": "Please give me an explanation about ``Egypt''.", "entity": "Egypt", "category": "geography", "complexityType": "intersection", "q_id": 301}
+{"question": "Please give me an explanation about ``Sudan''.", "entity": "Sudan", "category": "geography", "complexityType": "intersection", "q_id": 302}
+{"question": "Please give me an explanation about ``Lake Superior''.", "entity": "Lake Superior", "category": "geography", "complexityType": "intersection", "q_id": 303}
+{"question": "Please give me an explanation about ``Oregon''.", "entity": "Oregon", "category": "geography", "complexityType": "intersection", "q_id": 304}
+{"question": "Please give me an explanation about ``Mississippi''.", "entity": "Mississippi", "category": "geography", "complexityType": "intersection", "q_id": 305}
+{"question": "Please give me an explanation about ``Humphreys Peak''.", "entity": "Humphreys Peak", "category": "geography", "complexityType": "intersection", "q_id": 306}
+{"question": "Please give me an explanation about ``Nigeria''.", "entity": "Nigeria", "category": "geography", "complexityType": "intersection", "q_id": 307}
+{"question": "Please give me an explanation about ``Manila''.", "entity": "Manila", "category": "geography", "complexityType": "intersection", "q_id": 308}
+{"question": "Please give me an explanation about ``The Amazon''.", "entity": "The Amazon", "category": "geography", "complexityType": "intersection", "q_id": 309}
+{"question": "Please give me an explanation about ``Kanchenjunga''.", "entity": "Kanchenjunga", "category": "geography", "complexityType": "intersection", "q_id": 310}
+{"question": "Please give me an explanation about ``River Severn''.", "entity": "River Severn", "category": "geography", "complexityType": "intersection", "q_id": 311}
+{"question": "Please give me an explanation about ``Monaco''.", "entity": "Monaco", "category": "geography", "complexityType": "intersection", "q_id": 312}
+{"question": "Please give me an explanation about ``Falls Lake''.", "entity": "Falls Lake", "category": "geography", "complexityType": "multihop", "q_id": 313}
+{"question": "Please give me an explanation about ``Monte Titano''.", "entity": "Monte Titano", "category": "geography", "complexityType": "multihop", "q_id": 314}
+{"question": "Please give me an explanation about ``Clarke House Museum''.", "entity": "Clarke House Museum", "category": "geography", "complexityType": "multihop", "q_id": 315}
+{"question": "Please give me an explanation about ``Paris''.", "entity": "Paris", "category": "geography", "complexityType": "multihop", "q_id": 316}
+{"question": "Please give me an explanation about ``Kilimanjaro''.", "entity": "Kilimanjaro", "category": "geography", "complexityType": "multihop", "q_id": 317}
+{"question": "Please give me an explanation about ``Paris''.", "entity": "Paris", "category": "geography", "complexityType": "multihop", "q_id": 318}
+{"question": "Please give me an explanation about ``Taipei 101''.", "entity": "Taipei 101", "category": "geography", "complexityType": "multihop", "q_id": 319}
+{"question": "Please give me an explanation about ``Japan''.", "entity": "Japan", "category": "geography", "complexityType": "multihop", "q_id": 320}
+{"question": "Please give me an explanation about ``Mississippi–Missouri–Jefferson–Beaverhead–Red Rock–Hell Roaring''.", "entity": "Mississippi–Missouri–Jefferson–Beaverhead–Red Rock–Hell Roaring", "category": "geography", "complexityType": "ordinal", "q_id": 321}
+{"question": "Please give me an explanation about ``Shkhara''.", "entity": "Shkhara", "category": "geography", "complexityType": "ordinal", "q_id": 322}
+{"question": "Please give me an explanation about ``King Peak''.", "entity": "King Peak", "category": "geography", "complexityType": "ordinal", "q_id": 323}
+{"question": "Please give me an explanation about ``Ukraine''.", "entity": "Ukraine", "category": "geography", "complexityType": "ordinal", "q_id": 324}
+{"question": "Please give me an explanation about ``Brazil''.", "entity": "Brazil", "category": "geography", "complexityType": "ordinal", "q_id": 325}
+{"question": "Please give me an explanation about ``California''.", "entity": "California", "category": "geography", "complexityType": "ordinal", "q_id": 326}
+{"question": "Please give me an explanation about ``Kazakhstan and Russia''.", "entity": "Kazakhstan and Russia", "category": "geography", "complexityType": "ordinal", "q_id": 327}
+{"question": "Please give me an explanation about ``Lake Michigan''.", "entity": "Lake Michigan", "category": "geography", "complexityType": "ordinal", "q_id": 328}
+{"question": "Please give me an explanation about ``Frankfort, KY''.", "entity": "Frankfort, KY", "category": "geography", "complexityType": "ordinal", "q_id": 329}
+{"question": "Please give me an explanation about ``Lake Huron''.", "entity": "Lake Huron", "category": "geography", "complexityType": "ordinal", "q_id": 330}
+{"question": "Please give me an explanation about ``Mount Foraker''.", "entity": "Mount Foraker", "category": "geography", "complexityType": "ordinal", "q_id": 331}
+{"question": "Please give me an explanation about ``China''.", "entity": "China", "category": "geography", "complexityType": "ordinal", "q_id": 332}
+{"question": "Please give me an explanation about ``Missouri''.", "entity": "Missouri", "category": "geography", "complexityType": "ordinal", "q_id": 333}
+{"question": "Please give me an explanation about ``kangchenjunga''.", "entity": "kangchenjunga", "category": "geography", "complexityType": "ordinal", "q_id": 334}
+{"question": "Please give me an explanation about ``Vatican City''.", "entity": "Vatican City", "category": "geography", "complexityType": "superlative", "q_id": 335}
+{"question": "Please give me an explanation about ``Russia''.", "entity": "Russia", "category": "geography", "complexityType": "superlative", "q_id": 336}
+{"question": "Please give me an explanation about ``Challenger Deep, at the bottom of the Mariana Trench''.", "entity": "Challenger Deep, at the bottom of the Mariana Trench", "category": "geography", "complexityType": "superlative", "q_id": 337}
+{"question": "Please give me an explanation about ``Colorado River''.", "entity": "Colorado River", "category": "geography", "complexityType": "superlative", "q_id": 338}
+{"question": "Please give me an explanation about ``Brazil''.", "entity": "Brazil", "category": "geography", "complexityType": "superlative", "q_id": 339}
+{"question": "Please give me an explanation about ``Mackenzie River''.", "entity": "Mackenzie River", "category": "geography", "complexityType": "superlative", "q_id": 340}
+{"question": "Please give me an explanation about ``Mount Everest''.", "entity": "Mount Everest", "category": "geography", "complexityType": "superlative", "q_id": 341}
+{"question": "Please give me an explanation about ``Mexico City''.", "entity": "Mexico City", "category": "geography", "complexityType": "superlative", "q_id": 342}
+{"question": "Please give me an explanation about ``Reykjavik''.", "entity": "Reykjavik", "category": "geography", "complexityType": "superlative", "q_id": 343}
+{"question": "Please give me an explanation about ``Russia''.", "entity": "Russia", "category": "geography", "complexityType": "superlative", "q_id": 344}
+{"question": "Please give me an explanation about ``One World Trade Center''.", "entity": "One World Trade Center", "category": "geography", "complexityType": "superlative", "q_id": 345}
+{"question": "Please give me an explanation about ``The North Country Trail''.", "entity": "The North Country Trail", "category": "geography", "complexityType": "superlative", "q_id": 346}
+{"question": "Please give me an explanation about ``New York City''.", "entity": "New York City", "category": "geography", "complexityType": "superlative", "q_id": 347}
+{"question": "Please give me an explanation about ``New York City''.", "entity": "New York City", "category": "geography", "complexityType": "superlative", "q_id": 348}
+{"question": "Please give me an explanation about ``Alaska''.", "entity": "Alaska", "category": "geography", "complexityType": "superlative", "q_id": 349}
+{"question": "Please give me an explanation about ``Delhi''.", "entity": "Delhi", "category": "geography", "complexityType": "superlative", "q_id": 350}
+{"question": "Please give me an explanation about ``Lake Superior''.", "entity": "Lake Superior", "category": "geography", "complexityType": "superlative", "q_id": 351}
+{"question": "Please give me an explanation about ``Sahara Desert''.", "entity": "Sahara Desert", "category": "geography", "complexityType": "superlative", "q_id": 352}
+{"question": "Please give me an explanation about ``Lawton Chiles, Buddy MacKay''.", "entity": "Lawton Chiles, Buddy MacKay", "category": "politics", "complexityType": "difference", "q_id": 353}
+{"question": "Please give me an explanation about ``Margaret Thatcher, Theresa May''.", "entity": "Margaret Thatcher, Theresa May", "category": "politics", "complexityType": "difference", "q_id": 354}
+{"question": "Please give me an explanation about ``George W. Bush, Donald Trump''.", "entity": "George W. Bush, Donald Trump", "category": "politics", "complexityType": "difference", "q_id": 355}
+{"question": "Please give me an explanation about ``1992''.", "entity": "1992", "category": "politics", "complexityType": "difference", "q_id": 356}
+{"question": "Please give me an explanation about ``2020 Presidential election.''.", "entity": "2020 Presidential election.", "category": "politics", "complexityType": "difference", "q_id": 357}
+{"question": "Please give me an explanation about ``Bob Ehrlich, Larry Hogan''.", "entity": "Bob Ehrlich, Larry Hogan", "category": "politics", "complexityType": "difference", "q_id": 358}
+{"question": "Please give me an explanation about ``John Tyler, Millard Fillmore, Andrew Johnson, and Gerald Ford''.", "entity": "John Tyler, Millard Fillmore, Andrew Johnson, and Gerald Ford", "category": "politics", "complexityType": "difference", "q_id": 359}
+{"question": "Please give me an explanation about ``1976 Republican Party nomination''.", "entity": "1976 Republican Party nomination", "category": "politics", "complexityType": "difference", "q_id": 360}
+{"question": "Please give me an explanation about ``George E. Pataki''.", "entity": "George E. Pataki", "category": "politics", "complexityType": "difference", "q_id": 361}
+{"question": "Please give me an explanation about ``James Buchanan''.", "entity": "James Buchanan", "category": "politics", "complexityType": "difference", "q_id": 362}
+{"question": "Please give me an explanation about ``2012''.", "entity": "2012", "category": "politics", "complexityType": "difference", "q_id": 363}
+{"question": "Please give me an explanation about ``Ronald Reagen, George HW Bush, Bill Clinton, George W Bush, Barack Obama and Joe Biden''.", "entity": "Ronald Reagen, George HW Bush, Bill Clinton, George W Bush, Barack Obama and Joe Biden", "category": "politics", "complexityType": "difference", "q_id": 364}
+{"question": "Please give me an explanation about ``Georgia''.", "entity": "Georgia", "category": "politics", "complexityType": "difference", "q_id": 365}
+{"question": "Please give me an explanation about ``Barack Obama''.", "entity": "Barack Obama", "category": "politics", "complexityType": "difference", "q_id": 366}
+{"question": "Please give me an explanation about ``2020 Democratic primary''.", "entity": "2020 Democratic primary", "category": "politics", "complexityType": "difference", "q_id": 367}
+{"question": "Please give me an explanation about ``Barack Obama''.", "entity": "Barack Obama", "category": "politics", "complexityType": "difference", "q_id": 368}
+{"question": "Please give me an explanation about ``Arnold Schwarzenegger, Edmund G. \"Jerry\" Brown, Gavin Newsom''.", "entity": "Arnold Schwarzenegger, Edmund G. \"Jerry\" Brown, Gavin Newsom", "category": "politics", "complexityType": "difference", "q_id": 369}
+{"question": "Please give me an explanation about ``Michelle Obama''.", "entity": "Michelle Obama", "category": "politics", "complexityType": "intersection", "q_id": 370}
+{"question": "Please give me an explanation about ``Bertrand Snell''.", "entity": "Bertrand Snell", "category": "politics", "complexityType": "intersection", "q_id": 371}
+{"question": "Please give me an explanation about ``Donald Trump''.", "entity": "Donald Trump", "category": "politics", "complexityType": "intersection", "q_id": 372}
+{"question": "Please give me an explanation about ``Kamala Harris''.", "entity": "Kamala Harris", "category": "politics", "complexityType": "intersection", "q_id": 373}
+{"question": "Please give me an explanation about ``Bernie Sanders''.", "entity": "Bernie Sanders", "category": "politics", "complexityType": "intersection", "q_id": 374}
+{"question": "Please give me an explanation about ``Anthony Gonzalez''.", "entity": "Anthony Gonzalez", "category": "politics", "complexityType": "intersection", "q_id": 375}
+{"question": "Please give me an explanation about ``Hillary Clinton''.", "entity": "Hillary Clinton", "category": "politics", "complexityType": "intersection", "q_id": 376}
+{"question": "Please give me an explanation about ``Arnold Schwarzenegger''.", "entity": "Arnold Schwarzenegger", "category": "politics", "complexityType": "intersection", "q_id": 377}
+{"question": "Please give me an explanation about ``Justin Amash''.", "entity": "Justin Amash", "category": "politics", "complexityType": "intersection", "q_id": 378}
+{"question": "Please give me an explanation about ``George W Bush''.", "entity": "George W Bush", "category": "politics", "complexityType": "intersection", "q_id": 379}
+{"question": "Please give me an explanation about ``George Bush''.", "entity": "George Bush", "category": "politics", "complexityType": "intersection", "q_id": 380}
+{"question": "Please give me an explanation about ``Dwight Eisenhower''.", "entity": "Dwight Eisenhower", "category": "politics", "complexityType": "intersection", "q_id": 381}
+{"question": "Please give me an explanation about ``Joe Biden''.", "entity": "Joe Biden", "category": "politics", "complexityType": "intersection", "q_id": 382}
+{"question": "Please give me an explanation about ``Dianne Feinstein''.", "entity": "Dianne Feinstein", "category": "politics", "complexityType": "intersection", "q_id": 383}
+{"question": "Please give me an explanation about ``Al Franken''.", "entity": "Al Franken", "category": "politics", "complexityType": "intersection", "q_id": 384}
+{"question": "Please give me an explanation about ``Fred Grandy''.", "entity": "Fred Grandy", "category": "politics", "complexityType": "intersection", "q_id": 385}
+{"question": "Please give me an explanation about ``Elizabeth II''.", "entity": "Elizabeth II", "category": "politics", "complexityType": "intersection", "q_id": 386}
+{"question": "Please give me an explanation about ``Arnold Schwarzenegger''.", "entity": "Arnold Schwarzenegger", "category": "politics", "complexityType": "intersection", "q_id": 387}
+{"question": "Please give me an explanation about ``Ed Rendell''.", "entity": "Ed Rendell", "category": "politics", "complexityType": "intersection", "q_id": 388}
+{"question": "Please give me an explanation about ``Estes Kefauver''.", "entity": "Estes Kefauver", "category": "politics", "complexityType": "intersection", "q_id": 389}
+{"question": "Please give me an explanation about ``Republican Party''.", "entity": "Republican Party", "category": "politics", "complexityType": "multihop", "q_id": 390}
+{"question": "Please give me an explanation about ``Democratic Party''.", "entity": "Democratic Party", "category": "politics", "complexityType": "multihop", "q_id": 391}
+{"question": "Please give me an explanation about ``Jeb Bush''.", "entity": "Jeb Bush", "category": "politics", "complexityType": "multihop", "q_id": 392}
+{"question": "Please give me an explanation about ``Malia Obama''.", "entity": "Malia Obama", "category": "politics", "complexityType": "multihop", "q_id": 393}
+{"question": "Please give me an explanation about ``Hawaii''.", "entity": "Hawaii", "category": "politics", "complexityType": "multihop", "q_id": 394}
+{"question": "Please give me an explanation about ``Caroline Harrison''.", "entity": "Caroline Harrison", "category": "politics", "complexityType": "multihop", "q_id": 395}
+{"question": "Please give me an explanation about ``Martha Washington''.", "entity": "Martha Washington", "category": "politics", "complexityType": "multihop", "q_id": 396}
+{"question": "Please give me an explanation about ``Florida''.", "entity": "Florida", "category": "politics", "complexityType": "multihop", "q_id": 397}
+{"question": "Please give me an explanation about ``Yale Law School''.", "entity": "Yale Law School", "category": "politics", "complexityType": "multihop", "q_id": 398}
+{"question": "Please give me an explanation about ``Navy''.", "entity": "Navy", "category": "politics", "complexityType": "multihop", "q_id": 399}
+{"question": "Please give me an explanation about ``Republican''.", "entity": "Republican", "category": "politics", "complexityType": "multihop", "q_id": 400}
+{"question": "Please give me an explanation about ``Ruby M. Rouss''.", "entity": "Ruby M. Rouss", "category": "politics", "complexityType": "ordinal", "q_id": 401}
+{"question": "Please give me an explanation about ``John Adams''.", "entity": "John Adams", "category": "politics", "complexityType": "ordinal", "q_id": 402}
+{"question": "Please give me an explanation about ``Andrew Johnson''.", "entity": "Andrew Johnson", "category": "politics", "complexityType": "ordinal", "q_id": 403}
+{"question": "Please give me an explanation about ``Bill Clinton''.", "entity": "Bill Clinton", "category": "politics", "complexityType": "ordinal", "q_id": 404}
+{"question": "Please give me an explanation about ``James Monroe''.", "entity": "James Monroe", "category": "politics", "complexityType": "ordinal", "q_id": 405}
+{"question": "Please give me an explanation about ``Susanna M. Salter''.", "entity": "Susanna M. Salter", "category": "politics", "complexityType": "ordinal", "q_id": 406}
+{"question": "Please give me an explanation about ``Iceland''.", "entity": "Iceland", "category": "politics", "complexityType": "ordinal", "q_id": 407}
+{"question": "Please give me an explanation about ``Kamala Harris''.", "entity": "Kamala Harris", "category": "politics", "complexityType": "ordinal", "q_id": 408}
+{"question": "Please give me an explanation about ``Barack Obama''.", "entity": "Barack Obama", "category": "politics", "complexityType": "ordinal", "q_id": 409}
+{"question": "Please give me an explanation about ``New York''.", "entity": "New York", "category": "politics", "complexityType": "ordinal", "q_id": 410}
+{"question": "Please give me an explanation about ``George W. Bush''.", "entity": "George W. Bush", "category": "politics", "complexityType": "ordinal", "q_id": 411}
+{"question": "Please give me an explanation about ``James Madison''.", "entity": "James Madison", "category": "politics", "complexityType": "superlative", "q_id": 412}
+{"question": "Please give me an explanation about ``California''.", "entity": "California", "category": "politics", "complexityType": "superlative", "q_id": 413}
+{"question": "Please give me an explanation about ``Joseph Biden''.", "entity": "Joseph Biden", "category": "politics", "complexityType": "superlative", "q_id": 414}
+{"question": "Please give me an explanation about ``Mitt Romney''.", "entity": "Mitt Romney", "category": "politics", "complexityType": "superlative", "q_id": 415}
+{"question": "Please give me an explanation about ``John Tyler''.", "entity": "John Tyler", "category": "politics", "complexityType": "superlative", "q_id": 416}
+{"question": "Please give me an explanation about ``Ron DeSantis''.", "entity": "Ron DeSantis", "category": "politics", "complexityType": "superlative", "q_id": 417}
+{"question": "Please give me an explanation about ``James Polk''.", "entity": "James Polk", "category": "politics", "complexityType": "superlative", "q_id": 418}
+{"question": "Please give me an explanation about ``Theodore Roosevelt''.", "entity": "Theodore Roosevelt", "category": "politics", "complexityType": "superlative", "q_id": 419}
+{"question": "Please give me an explanation about ``Virginia''.", "entity": "Virginia", "category": "politics", "complexityType": "superlative", "q_id": 420}
+{"question": "Please give me an explanation about ``John C. Breckinridge''.", "entity": "John C. Breckinridge", "category": "politics", "complexityType": "superlative", "q_id": 421}
+{"question": "Please give me an explanation about ``Texas''.", "entity": "Texas", "category": "politics", "complexityType": "superlative", "q_id": 422}
+{"question": "Please give me an explanation about ``Alexandria Ocasio-Cortez''.", "entity": "Alexandria Ocasio-Cortez", "category": "politics", "complexityType": "superlative", "q_id": 423}
+{"question": "Please give me an explanation about ``Joe Biden''.", "entity": "Joe Biden", "category": "politics", "complexityType": "superlative", "q_id": 424}
+{"question": "Please give me an explanation about ``Kay Ivey''.", "entity": "Kay Ivey", "category": "politics", "complexityType": "superlative", "q_id": 425}
+{"question": "Please give me an explanation about ``Steven T. Mason''.", "entity": "Steven T. Mason", "category": "politics", "complexityType": "superlative", "q_id": 426}
+{"question": "Please give me an explanation about ``John C Breckinridge''.", "entity": "John C Breckinridge", "category": "politics", "complexityType": "superlative", "q_id": 427}
+{"question": "Please give me an explanation about ``Franklin D. Roosevelt''.", "entity": "Franklin D. Roosevelt", "category": "politics", "complexityType": "superlative", "q_id": 428}
+{"question": "Please give me an explanation about ``James Madison''.", "entity": "James Madison", "category": "politics", "complexityType": "superlative", "q_id": 429}
+{"question": "Please give me an explanation about ``John F. Kennedy''.", "entity": "John F. Kennedy", "category": "politics", "complexityType": "superlative", "q_id": 430}
+{"question": "Please give me an explanation about ``Alaska, Delaware, Montana, North Dakota, South Dakota, Vermont, Wyoming''.", "entity": "Alaska, Delaware, Montana, North Dakota, South Dakota, Vermont, Wyoming", "category": "politics", "complexityType": "superlative", "q_id": 431}
+{"question": "Please give me an explanation about ``U.S. Virgin Islands''.", "entity": "U.S. Virgin Islands", "category": "politics", "complexityType": "superlative", "q_id": 432}
+{"question": "Please give me an explanation about ``American Samoa''.", "entity": "American Samoa", "category": "politics", "complexityType": "superlative", "q_id": 433}
+{"question": "Please give me an explanation about ``Luke Ravenstahl''.", "entity": "Luke Ravenstahl", "category": "politics", "complexityType": "superlative", "q_id": 434}
+{"question": "Please give me an explanation about ``Joe Biden''.", "entity": "Joe Biden", "category": "politics", "complexityType": "superlative", "q_id": 435}
+{"question": "Please give me an explanation about ``The Legend of Zelda: Ocarina of Time''.", "entity": "The Legend of Zelda: Ocarina of Time", "category": "videogames", "complexityType": "difference", "q_id": 436}
+{"question": "Please give me an explanation about ``Kingdom Hearts 1, Kingdom Hearts 2''.", "entity": "Kingdom Hearts 1, Kingdom Hearts 2", "category": "videogames", "complexityType": "difference", "q_id": 437}
+{"question": "Please give me an explanation about ``Call of Duty 4: Modern Warfare''.", "entity": "Call of Duty 4: Modern Warfare", "category": "videogames", "complexityType": "difference", "q_id": 438}
+{"question": "Please give me an explanation about ``Clyde''.", "entity": "Clyde", "category": "videogames", "complexityType": "difference", "q_id": 439}
+{"question": "Please give me an explanation about ``Super Smash Bros''.", "entity": "Super Smash Bros", "category": "videogames", "complexityType": "difference", "q_id": 440}
+{"question": "Please give me an explanation about ``Red Alert''.", "entity": "Red Alert", "category": "videogames", "complexityType": "difference", "q_id": 441}
+{"question": "Please give me an explanation about ``Donkey Kong Country Returns''.", "entity": "Donkey Kong Country Returns", "category": "videogames", "complexityType": "difference", "q_id": 442}
+{"question": "Please give me an explanation about ``Super Mario 64''.", "entity": "Super Mario 64", "category": "videogames", "complexityType": "difference", "q_id": 443}
+{"question": "Please give me an explanation about ``Super Mario Land''.", "entity": "Super Mario Land", "category": "videogames", "complexityType": "difference", "q_id": 444}
+{"question": "Please give me an explanation about ``Super Mario Land''.", "entity": "Super Mario Land", "category": "videogames", "complexityType": "difference", "q_id": 445}
+{"question": "Please give me an explanation about ``Nintendo GameCube''.", "entity": "Nintendo GameCube", "category": "videogames", "complexityType": "difference", "q_id": 446}
+{"question": "Please give me an explanation about ``Metroid II: Return of Samus''.", "entity": "Metroid II: Return of Samus", "category": "videogames", "complexityType": "difference", "q_id": 447}
+{"question": "Please give me an explanation about ``Porsche''.", "entity": "Porsche", "category": "videogames", "complexityType": "difference", "q_id": 448}
+{"question": "Please give me an explanation about ``animal crossing city folk''.", "entity": "animal crossing city folk", "category": "videogames", "complexityType": "difference", "q_id": 449}
+{"question": "Please give me an explanation about ``Grand Theft Auto: San Andreas''.", "entity": "Grand Theft Auto: San Andreas", "category": "videogames", "complexityType": "difference", "q_id": 450}
+{"question": "Please give me an explanation about ``Atari''.", "entity": "Atari", "category": "videogames", "complexityType": "difference", "q_id": 451}
+{"question": "Please give me an explanation about ``Guitar Hero III: Legends of Rock''.", "entity": "Guitar Hero III: Legends of Rock", "category": "videogames", "complexityType": "difference", "q_id": 452}
+{"question": "Please give me an explanation about ``Zelda II: The Adventure of Link''.", "entity": "Zelda II: The Adventure of Link", "category": "videogames", "complexityType": "intersection", "q_id": 453}
+{"question": "Please give me an explanation about ``Donkey Kong''.", "entity": "Donkey Kong", "category": "videogames", "complexityType": "intersection", "q_id": 454}
+{"question": "Please give me an explanation about ``Skyward Sword''.", "entity": "Skyward Sword", "category": "videogames", "complexityType": "intersection", "q_id": 455}
+{"question": "Please give me an explanation about ``GTA San Andreas''.", "entity": "GTA San Andreas", "category": "videogames", "complexityType": "intersection", "q_id": 456}
+{"question": "Please give me an explanation about ``Soul Calibur VI''.", "entity": "Soul Calibur VI", "category": "videogames", "complexityType": "intersection", "q_id": 457}
+{"question": "Please give me an explanation about ``Final Fantasy Tactics''.", "entity": "Final Fantasy Tactics", "category": "videogames", "complexityType": "intersection", "q_id": 458}
+{"question": "Please give me an explanation about ``Final Fantasy V''.", "entity": "Final Fantasy V", "category": "videogames", "complexityType": "intersection", "q_id": 459}
+{"question": "Please give me an explanation about ``Black Flag''.", "entity": "Black Flag", "category": "videogames", "complexityType": "intersection", "q_id": 460}
+{"question": "Please give me an explanation about ``Mario Kart Double Dash''.", "entity": "Mario Kart Double Dash", "category": "videogames", "complexityType": "intersection", "q_id": 461}
+{"question": "Please give me an explanation about ``Final Fantasy 7 Remake''.", "entity": "Final Fantasy 7 Remake", "category": "videogames", "complexityType": "intersection", "q_id": 462}
+{"question": "Please give me an explanation about ``Half-Life 2''.", "entity": "Half-Life 2", "category": "videogames", "complexityType": "intersection", "q_id": 463}
+{"question": "Please give me an explanation about ``Grand Theft Auto: San Andreas''.", "entity": "Grand Theft Auto: San Andreas", "category": "videogames", "complexityType": "intersection", "q_id": 464}
+{"question": "Please give me an explanation about ``Battlefield 2 : Modern Combat, Bad Company, 1943''.", "entity": "Battlefield 2 : Modern Combat, Bad Company, 1943", "category": "videogames", "complexityType": "intersection", "q_id": 465}
+{"question": "Please give me an explanation about ``Hades''.", "entity": "Hades", "category": "videogames", "complexityType": "intersection", "q_id": 466}
+{"question": "Please give me an explanation about ``The Legend of Zelda: Skyward Sword''.", "entity": "The Legend of Zelda: Skyward Sword", "category": "videogames", "complexityType": "intersection", "q_id": 467}
+{"question": "Please give me an explanation about ``animal crossing new horizons and doom eternal''.", "entity": "animal crossing new horizons and doom eternal", "category": "videogames", "complexityType": "intersection", "q_id": 468}
+{"question": "Please give me an explanation about ``Joshua Bright''.", "entity": "Joshua Bright", "category": "videogames", "complexityType": "intersection", "q_id": 469}
+{"question": "Please give me an explanation about ``The Elder Scrolls V: Skyrim''.", "entity": "The Elder Scrolls V: Skyrim", "category": "videogames", "complexityType": "intersection", "q_id": 470}
+{"question": "Please give me an explanation about ``KOTOR II''.", "entity": "KOTOR II", "category": "videogames", "complexityType": "intersection", "q_id": 471}
+{"question": "Please give me an explanation about ``Metal Gear Solid 2''.", "entity": "Metal Gear Solid 2", "category": "videogames", "complexityType": "intersection", "q_id": 472}
+{"question": "Please give me an explanation about ``Man of Medan''.", "entity": "Man of Medan", "category": "videogames", "complexityType": "intersection", "q_id": 473}
+{"question": "Please give me an explanation about ``Resident Evil 4''.", "entity": "Resident Evil 4", "category": "videogames", "complexityType": "intersection", "q_id": 474}
+{"question": "Please give me an explanation about ``Clock Tower''.", "entity": "Clock Tower", "category": "videogames", "complexityType": "intersection", "q_id": 475}
+{"question": "Please give me an explanation about ``The Arbiter''.", "entity": "The Arbiter", "category": "videogames", "complexityType": "multihop", "q_id": 476}
+{"question": "Please give me an explanation about ``the Combine''.", "entity": "the Combine", "category": "videogames", "complexityType": "multihop", "q_id": 477}
+{"question": "Please give me an explanation about ``Duck Hunt''.", "entity": "Duck Hunt", "category": "videogames", "complexityType": "multihop", "q_id": 478}
+{"question": "Please give me an explanation about ``King K. Rool''.", "entity": "King K. Rool", "category": "videogames", "complexityType": "multihop", "q_id": 479}
+{"question": "Please give me an explanation about ``Tommy''.", "entity": "Tommy", "category": "videogames", "complexityType": "multihop", "q_id": 480}
+{"question": "Please give me an explanation about ``Kevin Durant''.", "entity": "Kevin Durant", "category": "videogames", "complexityType": "multihop", "q_id": 481}
+{"question": "Please give me an explanation about ``Tidus''.", "entity": "Tidus", "category": "videogames", "complexityType": "multihop", "q_id": 482}
+{"question": "Please give me an explanation about ``Link''.", "entity": "Link", "category": "videogames", "complexityType": "multihop", "q_id": 483}
+{"question": "Please give me an explanation about ``Carnival Night Zone''.", "entity": "Carnival Night Zone", "category": "videogames", "complexityType": "multihop", "q_id": 484}
+{"question": "Please give me an explanation about ``Sigurd Styrbjornsson''.", "entity": "Sigurd Styrbjornsson", "category": "videogames", "complexityType": "multihop", "q_id": 485}
+{"question": "Please give me an explanation about ``Lightning''.", "entity": "Lightning", "category": "videogames", "complexityType": "multihop", "q_id": 486}
+{"question": "Please give me an explanation about ``Dracula''.", "entity": "Dracula", "category": "videogames", "complexityType": "multihop", "q_id": 487}
+{"question": "Please give me an explanation about ``Cyndaquil''.", "entity": "Cyndaquil", "category": "videogames", "complexityType": "ordinal", "q_id": 488}
+{"question": "Please give me an explanation about ``Assassin's Creed: Brotherhood''.", "entity": "Assassin's Creed: Brotherhood", "category": "videogames", "complexityType": "ordinal", "q_id": 489}
+{"question": "Please give me an explanation about ``Call of Duty 4: Modern Warfare''.", "entity": "Call of Duty 4: Modern Warfare", "category": "videogames", "complexityType": "ordinal", "q_id": 490}
+{"question": "Please give me an explanation about ``Super Smash Bros. Ultimate''.", "entity": "Super Smash Bros. Ultimate", "category": "videogames", "complexityType": "ordinal", "q_id": 491}
+{"question": "Please give me an explanation about ``Ratchet & Clank 2: Going Commando''.", "entity": "Ratchet & Clank 2: Going Commando", "category": "videogames", "complexityType": "ordinal", "q_id": 492}
+{"question": "Please give me an explanation about ``Cloud''.", "entity": "Cloud", "category": "videogames", "complexityType": "ordinal", "q_id": 493}
+{"question": "Please give me an explanation about ``Caterpie''.", "entity": "Caterpie", "category": "videogames", "complexityType": "ordinal", "q_id": 494}
+{"question": "Please give me an explanation about ``Daggerfall''.", "entity": "Daggerfall", "category": "videogames", "complexityType": "ordinal", "q_id": 495}
+{"question": "Please give me an explanation about ``Pong''.", "entity": "Pong", "category": "videogames", "complexityType": "ordinal", "q_id": 496}
+{"question": "Please give me an explanation about ``PlayStation 2''.", "entity": "PlayStation 2", "category": "videogames", "complexityType": "ordinal", "q_id": 497}
+{"question": "Please give me an explanation about ``Animal Crossing: Wild World - Nintendo DS (2005)''.", "entity": "Animal Crossing: Wild World - Nintendo DS (2005)", "category": "videogames", "complexityType": "ordinal", "q_id": 498}
+{"question": "Please give me an explanation about ``call of duty: modern warfare 2''.", "entity": "call of duty: modern warfare 2", "category": "videogames", "complexityType": "ordinal", "q_id": 499}
+{"question": "Please give me an explanation about ``New Super Mario Bros. Wii''.", "entity": "New Super Mario Bros. Wii", "category": "videogames", "complexityType": "ordinal", "q_id": 500}
+{"question": "Please give me an explanation about ``The Legend of Heroes: Trails in the Sky the 3rd''.", "entity": "The Legend of Heroes: Trails in the Sky the 3rd", "category": "videogames", "complexityType": "ordinal", "q_id": 501}
+{"question": "Please give me an explanation about ``red and blue(1st)''.", "entity": "red and blue(1st)", "category": "videogames", "complexityType": "ordinal", "q_id": 502}
+{"question": "Please give me an explanation about ``Dragon Age II''.", "entity": "Dragon Age II", "category": "videogames", "complexityType": "ordinal", "q_id": 503}
+{"question": "Please give me an explanation about ``Legend of Zelda A Link to the Past''.", "entity": "Legend of Zelda A Link to the Past", "category": "videogames", "complexityType": "ordinal", "q_id": 504}
+{"question": "Please give me an explanation about ``Bulbasaur''.", "entity": "Bulbasaur", "category": "videogames", "complexityType": "ordinal", "q_id": 505}
+{"question": "Please give me an explanation about ``Super Smash Bros. Brawl''.", "entity": "Super Smash Bros. Brawl", "category": "videogames", "complexityType": "ordinal", "q_id": 506}
+{"question": "Please give me an explanation about ``Super Mario Land''.", "entity": "Super Mario Land", "category": "videogames", "complexityType": "ordinal", "q_id": 507}
+{"question": "Please give me an explanation about ``Assassins Creed : Syndicate''.", "entity": "Assassins Creed : Syndicate", "category": "videogames", "complexityType": "ordinal", "q_id": 508}
+{"question": "Please give me an explanation about ``Assassins Creed : Origins''.", "entity": "Assassins Creed : Origins", "category": "videogames", "complexityType": "ordinal", "q_id": 509}
+{"question": "Please give me an explanation about ``Assassins Creed : Valhalla''.", "entity": "Assassins Creed : Valhalla", "category": "videogames", "complexityType": "ordinal", "q_id": 510}
+{"question": "Please give me an explanation about ``The Legend of Zelda: Ocarina of Time''.", "entity": "The Legend of Zelda: Ocarina of Time", "category": "videogames", "complexityType": "superlative", "q_id": 511}
+{"question": "Please give me an explanation about ``Wii U''.", "entity": "Wii U", "category": "videogames", "complexityType": "superlative", "q_id": 512}
+{"question": "Please give me an explanation about ``Elder Scrolls : Skyrim''.", "entity": "Elder Scrolls : Skyrim", "category": "videogames", "complexityType": "superlative", "q_id": 513}
+{"question": "Please give me an explanation about ``The Last of Us''.", "entity": "The Last of Us", "category": "videogames", "complexityType": "superlative", "q_id": 514}
+{"question": "Please give me an explanation about ``Far Cry 5''.", "entity": "Far Cry 5", "category": "videogames", "complexityType": "superlative", "q_id": 515}
+{"question": "Please give me an explanation about ``Call of Duty: Modern Warfare''.", "entity": "Call of Duty: Modern Warfare", "category": "videogames", "complexityType": "superlative", "q_id": 516}
+{"question": "Please give me an explanation about ``The Legend of Zelda: Ocarina of Time''.", "entity": "The Legend of Zelda: Ocarina of Time", "category": "videogames", "complexityType": "superlative", "q_id": 517}
+{"question": "Please give me an explanation about ``call of duty: black ops''.", "entity": "call of duty: black ops", "category": "videogames", "complexityType": "superlative", "q_id": 518}
+{"question": "Please give me an explanation about ``Mario Kart 8''.", "entity": "Mario Kart 8", "category": "videogames", "complexityType": "superlative", "q_id": 519}
+{"question": "Please give me an explanation about ``Shenmue 1''.", "entity": "Shenmue 1", "category": "videogames", "complexityType": "superlative", "q_id": 520}
+{"question": "Please give me an explanation about ``GTA 5''.", "entity": "GTA 5", "category": "videogames", "complexityType": "superlative", "q_id": 521}
+{"question": "Please give me an explanation about ``Destiny 2''.", "entity": "Destiny 2", "category": "videogames", "complexityType": "superlative", "q_id": 522}
+{"question": "Please give me an explanation about ``Mortal Kombat 11''.", "entity": "Mortal Kombat 11", "category": "videogames", "complexityType": "superlative", "q_id": 523}
+{"question": "Please give me an explanation about ``Okami''.", "entity": "Okami", "category": "videogames", "complexityType": "superlative", "q_id": 524}
+{"question": "Please give me an explanation about ``Grand Theft Auto V''.", "entity": "Grand Theft Auto V", "category": "videogames", "complexityType": "superlative", "q_id": 525}
+{"question": "Please give me an explanation about ``Call Of Duty: Black Ops''.", "entity": "Call Of Duty: Black Ops", "category": "videogames", "complexityType": "superlative", "q_id": 526}
+{"question": "Please give me an explanation about ``Sims 4''.", "entity": "Sims 4", "category": "videogames", "complexityType": "superlative", "q_id": 527}
+{"question": "Please give me an explanation about ``The Rise of Rome''.", "entity": "The Rise of Rome", "category": "videogames", "complexityType": "superlative", "q_id": 528}
+{"question": "Please give me an explanation about ``Metroid''.", "entity": "Metroid", "category": "videogames", "complexityType": "superlative", "q_id": 529}
+{"question": "Please give me an explanation about ``3DO''.", "entity": "3DO", "category": "videogames", "complexityType": "superlative", "q_id": 530}
+{"question": "Please give me an explanation about ``Mario Kart 8''.", "entity": "Mario Kart 8", "category": "videogames", "complexityType": "superlative", "q_id": 531}
+{"question": "Please give me an explanation about ``Star Citizen''.", "entity": "Star Citizen", "category": "videogames", "complexityType": "superlative", "q_id": 532}
+{"question": "Please give me an explanation about ``Elder scrolls 2 daggerfall''.", "entity": "Elder scrolls 2 daggerfall", "category": "videogames", "complexityType": "superlative", "q_id": 533}
+{"question": "Please give me an explanation about ``James Buchanan''.", "entity": "James Buchanan", "category": "history", "complexityType": "difference", "q_id": 534}
+{"question": "Please give me an explanation about ``Rhode Island''.", "entity": "Rhode Island", "category": "history", "complexityType": "difference", "q_id": 535}
+{"question": "Please give me an explanation about ``Isabelle of France''.", "entity": "Isabelle of France", "category": "history", "complexityType": "difference", "q_id": 536}
+{"question": "Please give me an explanation about ``Gerald Ford''.", "entity": "Gerald Ford", "category": "history", "complexityType": "difference", "q_id": 537}
+{"question": "Please give me an explanation about ``Naamah, the Ammonite Princess''.", "entity": "Naamah, the Ammonite Princess", "category": "history", "complexityType": "difference", "q_id": 538}
+{"question": "Please give me an explanation about ``The Hanging Gardens Of Babylon''.", "entity": "The Hanging Gardens Of Babylon", "category": "history", "complexityType": "difference", "q_id": 539}
+{"question": "Please give me an explanation about ``Broccoli''.", "entity": "Broccoli", "category": "history", "complexityType": "difference", "q_id": 540}
+{"question": "Please give me an explanation about ``Napoleon Bonaparte''.", "entity": "Napoleon Bonaparte", "category": "history", "complexityType": "difference", "q_id": 541}
+{"question": "Please give me an explanation about ``Ted Kennedy''.", "entity": "Ted Kennedy", "category": "history", "complexityType": "difference", "q_id": 542}
+{"question": "Please give me an explanation about ``Anna Harrison''.", "entity": "Anna Harrison", "category": "history", "complexityType": "difference", "q_id": 543}
+{"question": "Please give me an explanation about ``Henry VIII''.", "entity": "Henry VIII", "category": "history", "complexityType": "difference", "q_id": 544}
+{"question": "Please give me an explanation about ``Julia Gillard''.", "entity": "Julia Gillard", "category": "history", "complexityType": "difference", "q_id": 545}
+{"question": "Please give me an explanation about ``Hundred Years' War (1337 - 1453)''.", "entity": "Hundred Years' War (1337 - 1453)", "category": "history", "complexityType": "difference", "q_id": 546}
+{"question": "Please give me an explanation about ``Edward VIII''.", "entity": "Edward VIII", "category": "history", "complexityType": "difference", "q_id": 547}
+{"question": "Please give me an explanation about ``Sweden''.", "entity": "Sweden", "category": "history", "complexityType": "difference", "q_id": 548}
+{"question": "Please give me an explanation about ``Kublai Khan''.", "entity": "Kublai Khan", "category": "history", "complexityType": "difference", "q_id": 549}
+{"question": "Please give me an explanation about ``Nikola Tesla''.", "entity": "Nikola Tesla", "category": "history", "complexityType": "difference", "q_id": 550}
+{"question": "Please give me an explanation about ``United States Army''.", "entity": "United States Army", "category": "history", "complexityType": "difference", "q_id": 551}
+{"question": "Please give me an explanation about ``Alabama''.", "entity": "Alabama", "category": "history", "complexityType": "difference", "q_id": 552}
+{"question": "Please give me an explanation about ``Thomas J. \"Stonewall\" Jackson''.", "entity": "Thomas J. \"Stonewall\" Jackson", "category": "history", "complexityType": "difference", "q_id": 553}
+{"question": "Please give me an explanation about ``United Kingdom''.", "entity": "United Kingdom", "category": "history", "complexityType": "difference", "q_id": 554}
+{"question": "Please give me an explanation about ``USS Yorktown''.", "entity": "USS Yorktown", "category": "history", "complexityType": "difference", "q_id": 555}
+{"question": "Please give me an explanation about ``James Buchanan''.", "entity": "James Buchanan", "category": "history", "complexityType": "difference", "q_id": 556}
+{"question": "Please give me an explanation about ``Elizabeth I''.", "entity": "Elizabeth I", "category": "history", "complexityType": "difference", "q_id": 557}
+{"question": "Please give me an explanation about ``France''.", "entity": "France", "category": "history", "complexityType": "intersection", "q_id": 558}
+{"question": "Please give me an explanation about ``Calvin Coolidge''.", "entity": "Calvin Coolidge", "category": "history", "complexityType": "intersection", "q_id": 559}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "history", "complexityType": "intersection", "q_id": 560}
+{"question": "Please give me an explanation about ``Horemheb''.", "entity": "Horemheb", "category": "history", "complexityType": "intersection", "q_id": 561}
+{"question": "Please give me an explanation about ``United States''.", "entity": "United States", "category": "history", "complexityType": "intersection", "q_id": 562}
+{"question": "Please give me an explanation about ``Hillary Clinton''.", "entity": "Hillary Clinton", "category": "history", "complexityType": "intersection", "q_id": 563}
+{"question": "Please give me an explanation about ``Japan''.", "entity": "Japan", "category": "history", "complexityType": "intersection", "q_id": 564}
+{"question": "Please give me an explanation about ``Caligula''.", "entity": "Caligula", "category": "history", "complexityType": "intersection", "q_id": 565}
+{"question": "Please give me an explanation about ``Julia the Elder''.", "entity": "Julia the Elder", "category": "history", "complexityType": "intersection", "q_id": 566}
+{"question": "Please give me an explanation about ``Egypt''.", "entity": "Egypt", "category": "history", "complexityType": "intersection", "q_id": 567}
+{"question": "Please give me an explanation about ``Beatrice Regina della Scala''.", "entity": "Beatrice Regina della Scala", "category": "history", "complexityType": "intersection", "q_id": 568}
+{"question": "Please give me an explanation about ``Emmanuel Macron''.", "entity": "Emmanuel Macron", "category": "history", "complexityType": "intersection", "q_id": 569}
+{"question": "Please give me an explanation about ``Japan''.", "entity": "Japan", "category": "history", "complexityType": "intersection", "q_id": 570}
+{"question": "Please give me an explanation about ``Russia''.", "entity": "Russia", "category": "history", "complexityType": "intersection", "q_id": 571}
+{"question": "Please give me an explanation about ``George Washington, Abraham Lincoln, Thomas Jefferson, and Theodore Roosevelt''.", "entity": "George Washington, Abraham Lincoln, Thomas Jefferson, and Theodore Roosevelt", "category": "history", "complexityType": "intersection", "q_id": 572}
+{"question": "Please give me an explanation about ``Louis IX''.", "entity": "Louis IX", "category": "history", "complexityType": "intersection", "q_id": 573}
+{"question": "Please give me an explanation about ``William IV''.", "entity": "William IV", "category": "history", "complexityType": "intersection", "q_id": 574}
+{"question": "Please give me an explanation about ``Leonardo da Vinci''.", "entity": "Leonardo da Vinci", "category": "history", "complexityType": "intersection", "q_id": 575}
+{"question": "Please give me an explanation about ``Malcolm X''.", "entity": "Malcolm X", "category": "history", "complexityType": "intersection", "q_id": 576}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "history", "complexityType": "intersection", "q_id": 577}
+{"question": "Please give me an explanation about ``Napoleon Bonaparte''.", "entity": "Napoleon Bonaparte", "category": "history", "complexityType": "intersection", "q_id": 578}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "history", "complexityType": "intersection", "q_id": 579}
+{"question": "Please give me an explanation about ``Nagasaki''.", "entity": "Nagasaki", "category": "history", "complexityType": "intersection", "q_id": 580}
+{"question": "Please give me an explanation about ``James Monroe.''.", "entity": "James Monroe.", "category": "history", "complexityType": "intersection", "q_id": 581}
+{"question": "Please give me an explanation about ``United Kingdom''.", "entity": "United Kingdom", "category": "history", "complexityType": "intersection", "q_id": 582}
+{"question": "Please give me an explanation about ``Latin''.", "entity": "Latin", "category": "history", "complexityType": "multihop", "q_id": 583}
+{"question": "Please give me an explanation about ``bifocals''.", "entity": "bifocals", "category": "history", "complexityType": "multihop", "q_id": 584}
+{"question": "Please give me an explanation about ``Nancy Reagan''.", "entity": "Nancy Reagan", "category": "history", "complexityType": "multihop", "q_id": 585}
+{"question": "Please give me an explanation about ``Battle of the Bulge''.", "entity": "Battle of the Bulge", "category": "history", "complexityType": "multihop", "q_id": 586}
+{"question": "Please give me an explanation about ``Winston Churchill''.", "entity": "Winston Churchill", "category": "history", "complexityType": "multihop", "q_id": 587}
+{"question": "Please give me an explanation about ``Louis Antoine of France''.", "entity": "Louis Antoine of France", "category": "history", "complexityType": "multihop", "q_id": 588}
+{"question": "Please give me an explanation about ``Buzz Aldin''.", "entity": "Buzz Aldin", "category": "history", "complexityType": "multihop", "q_id": 589}
+{"question": "Please give me an explanation about ``Napoleon Bonaparte''.", "entity": "Napoleon Bonaparte", "category": "history", "complexityType": "multihop", "q_id": 590}
+{"question": "Please give me an explanation about ``Boris Johnson''.", "entity": "Boris Johnson", "category": "history", "complexityType": "multihop", "q_id": 591}
+{"question": "Please give me an explanation about ``Diana Spencer''.", "entity": "Diana Spencer", "category": "history", "complexityType": "multihop", "q_id": 592}
+{"question": "Please give me an explanation about ``Lee Harvey Oswald''.", "entity": "Lee Harvey Oswald", "category": "history", "complexityType": "multihop", "q_id": 593}
+{"question": "Please give me an explanation about ``Franklin D. Roosevelt''.", "entity": "Franklin D. Roosevelt", "category": "history", "complexityType": "multihop", "q_id": 594}
+{"question": "Please give me an explanation about ``USS Ranger''.", "entity": "USS Ranger", "category": "history", "complexityType": "ordinal", "q_id": 595}
+{"question": "Please give me an explanation about ``Puyi''.", "entity": "Puyi", "category": "history", "complexityType": "ordinal", "q_id": 596}
+{"question": "Please give me an explanation about ``Mississippi''.", "entity": "Mississippi", "category": "history", "complexityType": "ordinal", "q_id": 597}
+{"question": "Please give me an explanation about ``Roxana''.", "entity": "Roxana", "category": "history", "complexityType": "ordinal", "q_id": 598}
+{"question": "Please give me an explanation about ``Delaware''.", "entity": "Delaware", "category": "history", "complexityType": "ordinal", "q_id": 599}
+{"question": "Please give me an explanation about ``John F. Kennedy''.", "entity": "John F. Kennedy", "category": "history", "complexityType": "ordinal", "q_id": 600}
+{"question": "Please give me an explanation about ``Hawaii and Alaska''.", "entity": "Hawaii and Alaska", "category": "history", "complexityType": "ordinal", "q_id": 601}
+{"question": "Please give me an explanation about ``Barack Obama''.", "entity": "Barack Obama", "category": "history", "complexityType": "ordinal", "q_id": 602}
+{"question": "Please give me an explanation about ``Sophia Dorothea of Celle''.", "entity": "Sophia Dorothea of Celle", "category": "history", "complexityType": "ordinal", "q_id": 603}
+{"question": "Please give me an explanation about ``Jefferson Finis Davis''.", "entity": "Jefferson Finis Davis", "category": "history", "complexityType": "ordinal", "q_id": 604}
+{"question": "Please give me an explanation about ``Ramesses II the Great''.", "entity": "Ramesses II the Great", "category": "history", "complexityType": "ordinal", "q_id": 605}
+{"question": "Please give me an explanation about ``Robert Todd Lincoln''.", "entity": "Robert Todd Lincoln", "category": "history", "complexityType": "ordinal", "q_id": 606}
+{"question": "Please give me an explanation about ``Wilhelm II''.", "entity": "Wilhelm II", "category": "history", "complexityType": "ordinal", "q_id": 607}
+{"question": "Please give me an explanation about ``Hiram Rhodes Revels''.", "entity": "Hiram Rhodes Revels", "category": "history", "complexityType": "ordinal", "q_id": 608}
+{"question": "Please give me an explanation about ``Apollo 17''.", "entity": "Apollo 17", "category": "history", "complexityType": "ordinal", "q_id": 609}
+{"question": "Please give me an explanation about ``Great Pyramid of Giza''.", "entity": "Great Pyramid of Giza", "category": "history", "complexityType": "ordinal", "q_id": 610}
+{"question": "Please give me an explanation about ``Franklin Pierce''.", "entity": "Franklin Pierce", "category": "history", "complexityType": "ordinal", "q_id": 611}
+{"question": "Please give me an explanation about ``Friedrich Ebert''.", "entity": "Friedrich Ebert", "category": "history", "complexityType": "ordinal", "q_id": 612}
+{"question": "Please give me an explanation about ``menes''.", "entity": "menes", "category": "history", "complexityType": "ordinal", "q_id": 613}
+{"question": "Please give me an explanation about ``Bangkok''.", "entity": "Bangkok", "category": "history", "complexityType": "ordinal", "q_id": 614}
+{"question": "Please give me an explanation about ``King Louis XIX''.", "entity": "King Louis XIX", "category": "history", "complexityType": "superlative", "q_id": 615}
+{"question": "Please give me an explanation about ``The Battle of Verdun''.", "entity": "The Battle of Verdun", "category": "history", "complexityType": "superlative", "q_id": 616}
+{"question": "Please give me an explanation about ``Augustus''.", "entity": "Augustus", "category": "history", "complexityType": "superlative", "q_id": 617}
+{"question": "Please give me an explanation about ``Battle of Khe Sanh''.", "entity": "Battle of Khe Sanh", "category": "history", "complexityType": "superlative", "q_id": 618}
+{"question": "Please give me an explanation about ``Abraham Lincoln''.", "entity": "Abraham Lincoln", "category": "history", "complexityType": "superlative", "q_id": 619}
+{"question": "Please give me an explanation about ``Henry VI''.", "entity": "Henry VI", "category": "history", "complexityType": "superlative", "q_id": 620}
+{"question": "Please give me an explanation about ``Melania Knauss''.", "entity": "Melania Knauss", "category": "history", "complexityType": "superlative", "q_id": 621}
+{"question": "Please give me an explanation about ``Battle of Verdun''.", "entity": "Battle of Verdun", "category": "history", "complexityType": "superlative", "q_id": 622}
+{"question": "Please give me an explanation about ``The Battle of Attu.''.", "entity": "The Battle of Attu.", "category": "history", "complexityType": "superlative", "q_id": 623}
+{"question": "Please give me an explanation about ``The Gateway Arch''.", "entity": "The Gateway Arch", "category": "history", "complexityType": "superlative", "q_id": 624}
+{"question": "Please give me an explanation about ``Louis XIX''.", "entity": "Louis XIX", "category": "history", "complexityType": "superlative", "q_id": 625}
+{"question": "Please give me an explanation about ``Henry I''.", "entity": "Henry I", "category": "history", "complexityType": "superlative", "q_id": 626}
+{"question": "Please give me an explanation about ``Augustus''.", "entity": "Augustus", "category": "history", "complexityType": "superlative", "q_id": 627}
+{"question": "Please give me an explanation about ``Battle of Gettysburg''.", "entity": "Battle of Gettysburg", "category": "history", "complexityType": "superlative", "q_id": 628}
+{"question": "Please give me an explanation about ``Battle of Camden''.", "entity": "Battle of Camden", "category": "history", "complexityType": "superlative", "q_id": 629}
+{"question": "Please give me an explanation about ``Sir Robert Walpole''.", "entity": "Sir Robert Walpole", "category": "history", "complexityType": "superlative", "q_id": 630}
+{"question": "Please give me an explanation about ``Emporer Ortho''.", "entity": "Emporer Ortho", "category": "history", "complexityType": "superlative", "q_id": 631}
+{"question": "Please give me an explanation about ``William Henry Harrison''.", "entity": "William Henry Harrison", "category": "history", "complexityType": "superlative", "q_id": 632}
+{"question": "Please give me an explanation about ``Abraham Lincoln''.", "entity": "Abraham Lincoln", "category": "history", "complexityType": "superlative", "q_id": 633}
+{"question": "Please give me an explanation about ``Louis XIV''.", "entity": "Louis XIV", "category": "history", "complexityType": "superlative", "q_id": 634}
+{"question": "Please give me an explanation about ``September 11 attacks''.", "entity": "September 11 attacks", "category": "history", "complexityType": "superlative", "q_id": 635}
+{"question": "Please give me an explanation about ``William Lyon Mackenzie King''.", "entity": "William Lyon Mackenzie King", "category": "history", "complexityType": "superlative", "q_id": 636}
+{"question": "Please give me an explanation about ``William Henry Harrison''.", "entity": "William Henry Harrison", "category": "history", "complexityType": "superlative", "q_id": 637}
+{"question": "Please give me an explanation about ``Gettysburg''.", "entity": "Gettysburg", "category": "history", "complexityType": "superlative", "q_id": 638}
+{"question": "Please give me an explanation about ``Louis XIV''.", "entity": "Louis XIV", "category": "history", "complexityType": "superlative", "q_id": 639}
+{"question": "Please give me an explanation about ``Spiderman: Far from Home''.", "entity": "Spiderman: Far from Home", "category": "movies", "complexityType": "difference", "q_id": 640}
+{"question": "Please give me an explanation about ``Pulp Fiction''.", "entity": "Pulp Fiction", "category": "movies", "complexityType": "difference", "q_id": 641}
+{"question": "Please give me an explanation about ``The Godfather 3''.", "entity": "The Godfather 3", "category": "movies", "complexityType": "difference", "q_id": 642}
+{"question": "Please give me an explanation about ``Lincoln''.", "entity": "Lincoln", "category": "movies", "complexityType": "difference", "q_id": 643}
+{"question": "Please give me an explanation about ``Rachel Weisz''.", "entity": "Rachel Weisz", "category": "movies", "complexityType": "difference", "q_id": 644}
+{"question": "Please give me an explanation about ``Avengers, Avengers: Age of Ultron''.", "entity": "Avengers, Avengers: Age of Ultron", "category": "movies", "complexityType": "difference", "q_id": 645}
+{"question": "Please give me an explanation about ``Avengers: Age of Ultron''.", "entity": "Avengers: Age of Ultron", "category": "movies", "complexityType": "difference", "q_id": 646}
+{"question": "Please give me an explanation about ``Tim Allen''.", "entity": "Tim Allen", "category": "movies", "complexityType": "difference", "q_id": 647}
+{"question": "Please give me an explanation about ``Derek Kolstad''.", "entity": "Derek Kolstad", "category": "movies", "complexityType": "difference", "q_id": 648}
+{"question": "Please give me an explanation about ``Indiana''.", "entity": "Indiana", "category": "movies", "complexityType": "difference", "q_id": 649}
+{"question": "Please give me an explanation about ``Rampage''.", "entity": "Rampage", "category": "movies", "complexityType": "intersection", "q_id": 650}
+{"question": "Please give me an explanation about ``Mean Girls''.", "entity": "Mean Girls", "category": "movies", "complexityType": "intersection", "q_id": 651}
+{"question": "Please give me an explanation about ``Inglourious Basterds''.", "entity": "Inglourious Basterds", "category": "movies", "complexityType": "intersection", "q_id": 652}
+{"question": "Please give me an explanation about ``Daniel Craig.''.", "entity": "Daniel Craig.", "category": "movies", "complexityType": "intersection", "q_id": 653}
+{"question": "Please give me an explanation about ``Cable''.", "entity": "Cable", "category": "movies", "complexityType": "ordinal", "q_id": 654}
+{"question": "Please give me an explanation about ``Richard Harris''.", "entity": "Richard Harris", "category": "movies", "complexityType": "ordinal", "q_id": 655}
+{"question": "Please give me an explanation about ``The Irishman''.", "entity": "The Irishman", "category": "movies", "complexityType": "ordinal", "q_id": 656}
+{"question": "Please give me an explanation about ``The Gulf Between''.", "entity": "The Gulf Between", "category": "movies", "complexityType": "ordinal", "q_id": 657}
+{"question": "Please give me an explanation about ``Something Wicked''.", "entity": "Something Wicked", "category": "movies", "complexityType": "ordinal", "q_id": 658}
+{"question": "Please give me an explanation about ``Back to the Future Part II''.", "entity": "Back to the Future Part II", "category": "movies", "complexityType": "superlative", "q_id": 659}
+{"question": "Please give me an explanation about ``Daniel Day-Lewis''.", "entity": "Daniel Day-Lewis", "category": "movies", "complexityType": "superlative", "q_id": 660}
+{"question": "Please give me an explanation about ``Godzilla''.", "entity": "Godzilla", "category": "movies", "complexityType": "superlative", "q_id": 661}
+{"question": "Please give me an explanation about ``Suga''.", "entity": "Suga", "category": "music", "complexityType": "difference", "q_id": 662}
+{"question": "Please give me an explanation about ``Chester Bennington''.", "entity": "Chester Bennington", "category": "music", "complexityType": "difference", "q_id": 663}
+{"question": "Please give me an explanation about ``Levon Helm''.", "entity": "Levon Helm", "category": "music", "complexityType": "difference", "q_id": 664}
+{"question": "Please give me an explanation about ``Adam Gontier''.", "entity": "Adam Gontier", "category": "music", "complexityType": "difference", "q_id": 665}
+{"question": "Please give me an explanation about ``End of Time''.", "entity": "End of Time", "category": "music", "complexityType": "difference", "q_id": 666}
+{"question": "Please give me an explanation about ``Yummy''.", "entity": "Yummy", "category": "music", "complexityType": "difference", "q_id": 667}
+{"question": "Please give me an explanation about ``Confessions''.", "entity": "Confessions", "category": "music", "complexityType": "difference", "q_id": 668}
+{"question": "Please give me an explanation about ``Kevin Richardson''.", "entity": "Kevin Richardson", "category": "music", "complexityType": "difference", "q_id": 669}
+{"question": "Please give me an explanation about ``Donnie Wahlberg''.", "entity": "Donnie Wahlberg", "category": "music", "complexityType": "intersection", "q_id": 670}
+{"question": "Please give me an explanation about ``Reputation''.", "entity": "Reputation", "category": "music", "complexityType": "intersection", "q_id": 671}
+{"question": "Please give me an explanation about ``Infinity on High''.", "entity": "Infinity on High", "category": "music", "complexityType": "intersection", "q_id": 672}
+{"question": "Please give me an explanation about ``Big Boi and Andre 3000''.", "entity": "Big Boi and Andre 3000", "category": "music", "complexityType": "intersection", "q_id": 673}
+{"question": "Please give me an explanation about ``Like a virgin''.", "entity": "Like a virgin", "category": "music", "complexityType": "intersection", "q_id": 674}
+{"question": "Please give me an explanation about ``Tom Chalplin''.", "entity": "Tom Chalplin", "category": "music", "complexityType": "intersection", "q_id": 675}
+{"question": "Please give me an explanation about ``Steven Tyler''.", "entity": "Steven Tyler", "category": "music", "complexityType": "intersection", "q_id": 676}
+{"question": "Please give me an explanation about ``Hansi Kursch''.", "entity": "Hansi Kursch", "category": "music", "complexityType": "intersection", "q_id": 677}
+{"question": "Please give me an explanation about ``Justin Timberlake''.", "entity": "Justin Timberlake", "category": "music", "complexityType": "intersection", "q_id": 678}
+{"question": "Please give me an explanation about ``Virginia State University''.", "entity": "Virginia State University", "category": "music", "complexityType": "multihop", "q_id": 679}
+{"question": "Please give me an explanation about ``Daisy Dove Bloom''.", "entity": "Daisy Dove Bloom", "category": "music", "complexityType": "multihop", "q_id": 680}
+{"question": "Please give me an explanation about ``Out of Our Heads''.", "entity": "Out of Our Heads", "category": "music", "complexityType": "ordinal", "q_id": 681}
+{"question": "Please give me an explanation about ``...Baby One More Time''.", "entity": "...Baby One More Time", "category": "music", "complexityType": "ordinal", "q_id": 682}
+{"question": "Please give me an explanation about ``Elvis Presley (1956)''.", "entity": "Elvis Presley (1956)", "category": "music", "complexityType": "ordinal", "q_id": 683}
+{"question": "Please give me an explanation about ``Leave the Door Open''.", "entity": "Leave the Door Open", "category": "music", "complexityType": "ordinal", "q_id": 684}
+{"question": "Please give me an explanation about ``HIStory: Past, Present and Future, Book I''.", "entity": "HIStory: Past, Present and Future, Book I", "category": "music", "complexityType": "ordinal", "q_id": 685}
+{"question": "Please give me an explanation about ``A Different Kind of Truth''.", "entity": "A Different Kind of Truth", "category": "music", "complexityType": "ordinal", "q_id": 686}
+{"question": "Please give me an explanation about ``Heavydirtysoul''.", "entity": "Heavydirtysoul", "category": "music", "complexityType": "ordinal", "q_id": 687}
+{"question": "Please give me an explanation about ``Taylor Swift''.", "entity": "Taylor Swift", "category": "music", "complexityType": "superlative", "q_id": 688}
+{"question": "Please give me an explanation about ``Santana''.", "entity": "Santana", "category": "music", "complexityType": "superlative", "q_id": 689}
+{"question": "Please give me an explanation about ``Gregory Isaacs''.", "entity": "Gregory Isaacs", "category": "music", "complexityType": "superlative", "q_id": 690}
+{"question": "Please give me an explanation about ``Sir Georg Solti''.", "entity": "Sir Georg Solti", "category": "music", "complexityType": "superlative", "q_id": 691}
+{"question": "Please give me an explanation about ``RM''.", "entity": "RM", "category": "music", "complexityType": "superlative", "q_id": 692}
+{"question": "Please give me an explanation about ``Fear Inoculum''.", "entity": "Fear Inoculum", "category": "music", "complexityType": "superlative", "q_id": 693}
+{"question": "Please give me an explanation about ``Super Bowl XLII, Super Bowl XLVI, Super Bowl 52''.", "entity": "Super Bowl XLII, Super Bowl XLVI, Super Bowl 52", "category": "sports", "complexityType": "difference", "q_id": 694}
+{"question": "Please give me an explanation about ``James Harden''.", "entity": "James Harden", "category": "sports", "complexityType": "intersection", "q_id": 695}
+{"question": "Please give me an explanation about ``The San Diego Padres''.", "entity": "The San Diego Padres", "category": "sports", "complexityType": "intersection", "q_id": 696}
+{"question": "Please give me an explanation about ``New York Yankees''.", "entity": "New York Yankees", "category": "sports", "complexityType": "intersection", "q_id": 697}
+{"question": "Please give me an explanation about ``Ryan Blaney''.", "entity": "Ryan Blaney", "category": "sports", "complexityType": "intersection", "q_id": 698}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "intersection", "q_id": 699}
+{"question": "Please give me an explanation about ``Cincinnati, OH''.", "entity": "Cincinnati, OH", "category": "sports", "complexityType": "multihop", "q_id": 700}
+{"question": "Please give me an explanation about ``Troy Aikman''.", "entity": "Troy Aikman", "category": "sports", "complexityType": "multihop", "q_id": 701}
+{"question": "Please give me an explanation about ``Lionel Messi, Luis Diaz''.", "entity": "Lionel Messi, Luis Diaz", "category": "sports", "complexityType": "multihop", "q_id": 702}
+{"question": "Please give me an explanation about ``Gibbs''.", "entity": "Gibbs", "category": "sports", "complexityType": "ordinal", "q_id": 703}
+{"question": "Please give me an explanation about ``New York Jets''.", "entity": "New York Jets", "category": "sports", "complexityType": "ordinal", "q_id": 704}
+{"question": "Please give me an explanation about ``Seattle Mariners''.", "entity": "Seattle Mariners", "category": "sports", "complexityType": "ordinal", "q_id": 705}
+{"question": "Please give me an explanation about ``Detroit Tigers''.", "entity": "Detroit Tigers", "category": "sports", "complexityType": "ordinal", "q_id": 706}
+{"question": "Please give me an explanation about ``Green Bay Packers''.", "entity": "Green Bay Packers", "category": "sports", "complexityType": "superlative", "q_id": 707}
+{"question": "Please give me an explanation about ``Boston Celtics''.", "entity": "Boston Celtics", "category": "sports", "complexityType": "superlative", "q_id": 708}
+{"question": "Please give me an explanation about ``Henri Richard''.", "entity": "Henri Richard", "category": "sports", "complexityType": "superlative", "q_id": 709}
+{"question": "Please give me an explanation about ``United States''.", "entity": "United States", "category": "sports", "complexityType": "superlative", "q_id": 710}
+{"question": "Please give me an explanation about ``The Titan's Curse, The Battle of the Labyrinth, The Last Olympian''.", "entity": "The Titan's Curse, The Battle of the Labyrinth, The Last Olympian", "category": "books", "complexityType": "difference", "q_id": 711}
+{"question": "Please give me an explanation about ``Cinder, Scarlet, Cress''.", "entity": "Cinder, Scarlet, Cress", "category": "books", "complexityType": "difference", "q_id": 712}
+{"question": "Please give me an explanation about ``Angels and Demons.''.", "entity": "Angels and Demons.", "category": "books", "complexityType": "difference", "q_id": 713}
+{"question": "Please give me an explanation about ``Dearly Devoted Dexter, Dexter in the Dark, Dexter by Design, Dexter is Delicious, Double Dexter, Dexter's Final Cut, Dexter is Dead''.", "entity": "Dearly Devoted Dexter, Dexter in the Dark, Dexter by Design, Dexter is Delicious, Double Dexter, Dexter's Final Cut, Dexter is Dead", "category": "books", "complexityType": "difference", "q_id": 714}
+{"question": "Please give me an explanation about ``A Game of Thrones, A Clash of Kings''.", "entity": "A Game of Thrones, A Clash of Kings", "category": "books", "complexityType": "difference", "q_id": 715}
+{"question": "Please give me an explanation about ``The Captal's Tower''.", "entity": "The Captal's Tower", "category": "books", "complexityType": "difference", "q_id": 716}
+{"question": "Please give me an explanation about ``The Fox Busters''.", "entity": "The Fox Busters", "category": "books", "complexityType": "difference", "q_id": 717}
+{"question": "Please give me an explanation about ``Philosopher's Stone, Chamber of Secrets, Prisoner of Azkaban''.", "entity": "Philosopher's Stone, Chamber of Secrets, Prisoner of Azkaban", "category": "books", "complexityType": "difference", "q_id": 718}
+{"question": "Please give me an explanation about ``The Catcher in the Rye''.", "entity": "The Catcher in the Rye", "category": "books", "complexityType": "difference", "q_id": 719}
+{"question": "Please give me an explanation about ``Breaking Dawn''.", "entity": "Breaking Dawn", "category": "books", "complexityType": "intersection", "q_id": 720}
+{"question": "Please give me an explanation about ``Lion''.", "entity": "Lion", "category": "books", "complexityType": "intersection", "q_id": 721}
+{"question": "Please give me an explanation about ``The Grim Grotto''.", "entity": "The Grim Grotto", "category": "books", "complexityType": "intersection", "q_id": 722}
+{"question": "Please give me an explanation about ``A Clash of Kings''.", "entity": "A Clash of Kings", "category": "books", "complexityType": "intersection", "q_id": 723}
+{"question": "Please give me an explanation about ``Mississippi House of Representatives''.", "entity": "Mississippi House of Representatives", "category": "books", "complexityType": "multihop", "q_id": 724}
+{"question": "Please give me an explanation about ``The Firm''.", "entity": "The Firm", "category": "books", "complexityType": "multihop", "q_id": 725}
+{"question": "Please give me an explanation about ``Peter Jackson''.", "entity": "Peter Jackson", "category": "books", "complexityType": "multihop", "q_id": 726}
+{"question": "Please give me an explanation about ``George R.R. Martin''.", "entity": "George R.R. Martin", "category": "books", "complexityType": "multihop", "q_id": 727}
+{"question": "Please give me an explanation about ``The Ickabog''.", "entity": "The Ickabog", "category": "books", "complexityType": "ordinal", "q_id": 728}
+{"question": "Please give me an explanation about ``The Hobbit''.", "entity": "The Hobbit", "category": "books", "complexityType": "ordinal", "q_id": 729}
+{"question": "Please give me an explanation about ``The Miserable Mill''.", "entity": "The Miserable Mill", "category": "books", "complexityType": "ordinal", "q_id": 730}
+{"question": "Please give me an explanation about ``Robert Heinlein''.", "entity": "Robert Heinlein", "category": "books", "complexityType": "superlative", "q_id": 731}
+{"question": "Please give me an explanation about ``The Two Towers''.", "entity": "The Two Towers", "category": "books", "complexityType": "superlative", "q_id": 732}
+{"question": "Please give me an explanation about ``Mahabharata''.", "entity": "Mahabharata", "category": "books", "complexityType": "superlative", "q_id": 733}
+{"question": "Please give me an explanation about ``Simon and Schuster Crossword Puzzle Book''.", "entity": "Simon and Schuster Crossword Puzzle Book", "category": "books", "complexityType": "superlative", "q_id": 734}
+{"question": "Please give me an explanation about ``Ryoki Inoue''.", "entity": "Ryoki Inoue", "category": "books", "complexityType": "superlative", "q_id": 735}
+{"question": "Please give me an explanation about ``Rocky Mountains''.", "entity": "Rocky Mountains", "category": "geography", "complexityType": "difference", "q_id": 736}
+{"question": "Please give me an explanation about ``Hawaii and Alaska''.", "entity": "Hawaii and Alaska", "category": "geography", "complexityType": "difference", "q_id": 737}
+{"question": "Please give me an explanation about ``Annapurna mountain peaks of Himalayas is not in India.''.", "entity": "Annapurna mountain peaks of Himalayas is not in India.", "category": "geography", "complexityType": "difference", "q_id": 738}
+{"question": "Please give me an explanation about ``They do not pay Tuition''.", "entity": "They do not pay Tuition", "category": "geography", "complexityType": "difference", "q_id": 739}
+{"question": "Please give me an explanation about ``Mount Baker''.", "entity": "Mount Baker", "category": "geography", "complexityType": "difference", "q_id": 740}
+{"question": "Please give me an explanation about ``Seoul''.", "entity": "Seoul", "category": "geography", "complexityType": "intersection", "q_id": 741}
+{"question": "Please give me an explanation about ``Sahara''.", "entity": "Sahara", "category": "geography", "complexityType": "intersection", "q_id": 742}
+{"question": "Please give me an explanation about ``Mount Everest''.", "entity": "Mount Everest", "category": "geography", "complexityType": "intersection", "q_id": 743}
+{"question": "Please give me an explanation about ``Nanga Parbat''.", "entity": "Nanga Parbat", "category": "geography", "complexityType": "intersection", "q_id": 744}
+{"question": "Please give me an explanation about ``Lhotse''.", "entity": "Lhotse", "category": "geography", "complexityType": "intersection", "q_id": 745}
+{"question": "Please give me an explanation about ``Tokyo''.", "entity": "Tokyo", "category": "geography", "complexityType": "multihop", "q_id": 746}
+{"question": "Please give me an explanation about ``Benito Mussolini''.", "entity": "Benito Mussolini", "category": "geography", "complexityType": "multihop", "q_id": 747}
+{"question": "Please give me an explanation about ``Tokyo''.", "entity": "Tokyo", "category": "geography", "complexityType": "multihop", "q_id": 748}
+{"question": "Please give me an explanation about ``Petronas Tower''.", "entity": "Petronas Tower", "category": "geography", "complexityType": "multihop", "q_id": 749}
+{"question": "Please give me an explanation about ``The Mississippi River''.", "entity": "The Mississippi River", "category": "geography", "complexityType": "ordinal", "q_id": 750}
+{"question": "Please give me an explanation about ``Argentina''.", "entity": "Argentina", "category": "geography", "complexityType": "ordinal", "q_id": 751}
+{"question": "Please give me an explanation about ``New Guinea''.", "entity": "New Guinea", "category": "geography", "complexityType": "ordinal", "q_id": 752}
+{"question": "Please give me an explanation about ``Amazon River''.", "entity": "Amazon River", "category": "geography", "complexityType": "ordinal", "q_id": 753}
+{"question": "Please give me an explanation about ``Mount Damavand''.", "entity": "Mount Damavand", "category": "geography", "complexityType": "ordinal", "q_id": 754}
+{"question": "Please give me an explanation about ``Lhotse''.", "entity": "Lhotse", "category": "geography", "complexityType": "ordinal", "q_id": 755}
+{"question": "Please give me an explanation about ``Azuis River''.", "entity": "Azuis River", "category": "geography", "complexityType": "superlative", "q_id": 756}
+{"question": "Please give me an explanation about ``Crater Lake''.", "entity": "Crater Lake", "category": "geography", "complexityType": "superlative", "q_id": 757}
+{"question": "Please give me an explanation about ``Volga River''.", "entity": "Volga River", "category": "geography", "complexityType": "superlative", "q_id": 758}
+{"question": "Please give me an explanation about ``Sen. Bernie Sanders''.", "entity": "Sen. Bernie Sanders", "category": "politics", "complexityType": "difference", "q_id": 759}
+{"question": "Please give me an explanation about ``1988, 2008''.", "entity": "1988, 2008", "category": "politics", "complexityType": "difference", "q_id": 760}
+{"question": "Please give me an explanation about ``Gavin Newsom''.", "entity": "Gavin Newsom", "category": "politics", "complexityType": "difference", "q_id": 761}
+{"question": "Please give me an explanation about ``Andrew Yang''.", "entity": "Andrew Yang", "category": "politics", "complexityType": "intersection", "q_id": 762}
+{"question": "Please give me an explanation about ``Greg Abbott''.", "entity": "Greg Abbott", "category": "politics", "complexityType": "intersection", "q_id": 763}
+{"question": "Please give me an explanation about ``Michael Waltz''.", "entity": "Michael Waltz", "category": "politics", "complexityType": "intersection", "q_id": 764}
+{"question": "Please give me an explanation about ``William McKinley''.", "entity": "William McKinley", "category": "politics", "complexityType": "intersection", "q_id": 765}
+{"question": "Please give me an explanation about ``Marion Fay Alford''.", "entity": "Marion Fay Alford", "category": "politics", "complexityType": "multihop", "q_id": 766}
+{"question": "Please give me an explanation about ``Michelle Obama''.", "entity": "Michelle Obama", "category": "politics", "complexityType": "multihop", "q_id": 767}
+{"question": "Please give me an explanation about ``Harry Truman''.", "entity": "Harry Truman", "category": "politics", "complexityType": "multihop", "q_id": 768}
+{"question": "Please give me an explanation about ``Republican''.", "entity": "Republican", "category": "politics", "complexityType": "multihop", "q_id": 769}
+{"question": "Please give me an explanation about ``Hiram Fong''.", "entity": "Hiram Fong", "category": "politics", "complexityType": "ordinal", "q_id": 770}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "politics", "complexityType": "ordinal", "q_id": 771}
+{"question": "Please give me an explanation about ``Hillary Clinton''.", "entity": "Hillary Clinton", "category": "politics", "complexityType": "ordinal", "q_id": 772}
+{"question": "Please give me an explanation about ``Thomas Jefferson''.", "entity": "Thomas Jefferson", "category": "politics", "complexityType": "ordinal", "q_id": 773}
+{"question": "Please give me an explanation about ``William Howard Taft''.", "entity": "William Howard Taft", "category": "politics", "complexityType": "ordinal", "q_id": 774}
+{"question": "Please give me an explanation about ``James Madison''.", "entity": "James Madison", "category": "politics", "complexityType": "superlative", "q_id": 775}
+{"question": "Please give me an explanation about `` Star Wars: Episode II - Attack of the Clones''.", "entity": " Star Wars: Episode II - Attack of the Clones", "category": "movies", "complexityType": "ordinal", "q_id": 776}
+{"question": "Please give me an explanation about `` Rosé''.", "entity": " Rosé", "category": "music", "complexityType": "intersection", "q_id": 777}
+{"question": "Please give me an explanation about ``Justin Timberlake''.", "entity": "Justin Timberlake", "category": "music", "complexityType": "intersection", "q_id": 778}
+{"question": "Please give me an explanation about `` Beatles for Sale''.", "entity": " Beatles for Sale", "category": "music", "complexityType": "ordinal", "q_id": 779}
+{"question": "Please give me an explanation about `` Peyton Manning''.", "entity": " Peyton Manning", "category": "sports", "complexityType": "multihop", "q_id": 780}
+{"question": "Please give me an explanation about `` Paul Tsongas''.", "entity": " Paul Tsongas", "category": "politics", "complexityType": "intersection", "q_id": 781}
+{"question": "Please give me an explanation about `` Yes''.", "entity": " Yes", "category": "politics", "complexityType": "yesno", "q_id": 782}
+{"question": "Please give me an explanation about `` The Winds of Winter, A Dream of Spring''.", "entity": " The Winds of Winter, A Dream of Spring", "category": "books", "complexityType": "difference", "q_id": 783}
+{"question": "Please give me an explanation about `` The Shepherd's Crown''.", "entity": " The Shepherd's Crown", "category": "books", "complexityType": "ordinal", "q_id": 784}
+{"question": "Please give me an explanation about `` Robert Frost''.", "entity": " Robert Frost", "category": "books", "complexityType": "superlative", "q_id": 785}
+{"question": "Please give me an explanation about `` The Shard''.", "entity": " The Shard", "category": "geography", "complexityType": "multihop", "q_id": 786}
+{"question": "Please give me an explanation about ``Call of Duty: Modern Warfare''.", "entity": "Call of Duty: Modern Warfare", "category": "videogames", "complexityType": "difference", "q_id": 787}
+{"question": "Please give me an explanation about ``Jane Seymour''.", "entity": "Jane Seymour", "category": "history", "complexityType": "ordinal", "q_id": 788}
+{"question": "Please give me an explanation about ``Mary Dimmick Harrison and Caroline Harrison''.", "entity": "Mary Dimmick Harrison and Caroline Harrison", "category": "politics", "complexityType": "multihop", "q_id": 789}
+{"question": "Please give me an explanation about ``John Glenn''.", "entity": "John Glenn", "category": "politics", "complexityType": "multihop", "q_id": 790}
+{"question": "Please give me an explanation about ``Gran Torre Santiago''.", "entity": "Gran Torre Santiago", "category": "geography", "complexityType": "multihop", "q_id": 791}
+{"question": "Please give me an explanation about ``Industrial National Bank Building''.", "entity": "Industrial National Bank Building", "category": "geography", "complexityType": "multihop", "q_id": 792}
+{"question": "Please give me an explanation about ``Cheaha Mountain''.", "entity": "Cheaha Mountain", "category": "geography", "complexityType": "multihop", "q_id": 793}
+{"question": "Please give me an explanation about ``Professor Rubeus Hagrid''.", "entity": "Professor Rubeus Hagrid", "category": "books", "complexityType": "intersection", "q_id": 794}
+{"question": "Please give me an explanation about ``Obi-Wan Kenobi''.", "entity": "Obi-Wan Kenobi", "category": "books", "complexityType": "intersection", "q_id": 795}
+{"question": "Please give me an explanation about ``Albus Dumbledore''.", "entity": "Albus Dumbledore", "category": "books", "complexityType": "intersection", "q_id": 796}
+{"question": "Please give me an explanation about ``John Clark''.", "entity": "John Clark", "category": "books", "complexityType": "intersection", "q_id": 797}
+{"question": "Please give me an explanation about ``Metallica''.", "entity": "Metallica", "category": "music", "complexityType": "superlative", "q_id": 798}
+{"question": "Please give me an explanation about ``Drake''.", "entity": "Drake", "category": "music", "complexityType": "superlative", "q_id": 799}
+{"question": "Please give me an explanation about ``King's Disease''.", "entity": "King's Disease", "category": "music", "complexityType": "superlative", "q_id": 800}
+{"question": "Please give me an explanation about ``Star Trek: The Motion Picture''.", "entity": "Star Trek: The Motion Picture", "category": "movies", "complexityType": "difference", "q_id": 801}
+{"question": "Please give me an explanation about ``Best Song Written For Visual Media''.", "entity": "Best Song Written For Visual Media", "category": "music", "complexityType": "difference", "q_id": 802}
+{"question": "Please give me an explanation about ``New Orleans Pelicans''.", "entity": "New Orleans Pelicans", "category": "sports", "complexityType": "ordinal", "q_id": 803}
+{"question": "Please give me an explanation about ``Real Madrid''.", "entity": "Real Madrid", "category": "sports", "complexityType": "ordinal", "q_id": 804}
+{"question": "Please give me an explanation about ``Laura Bush''.", "entity": "Laura Bush", "category": "history", "complexityType": "multihop", "q_id": 805}
+{"question": "Please give me an explanation about ``William Shakespear''.", "entity": "William Shakespear", "category": "history", "complexityType": "multihop", "q_id": 806}
+{"question": "Please give me an explanation about ``John Quincy Adams''.", "entity": "John Quincy Adams", "category": "history", "complexityType": "multihop", "q_id": 807}
+{"question": "Please give me an explanation about ``Greece''.", "entity": "Greece", "category": "history", "complexityType": "multihop", "q_id": 808}
+{"question": "Please give me an explanation about ``Animal Crossing: New Horizons''.", "entity": "Animal Crossing: New Horizons", "category": "videogames", "complexityType": "difference", "q_id": 809}
+{"question": "Please give me an explanation about ``Halo: Combat Evolved''.", "entity": "Halo: Combat Evolved", "category": "videogames", "complexityType": "difference", "q_id": 810}
+{"question": "Please give me an explanation about ``Magmar''.", "entity": "Magmar", "category": "videogames", "complexityType": "difference", "q_id": 811}
+{"question": "Please give me an explanation about ``luigi's mansion 3''.", "entity": "luigi's mansion 3", "category": "videogames", "complexityType": "difference", "q_id": 812}
+{"question": "Please give me an explanation about ``Hellfire''.", "entity": "Hellfire", "category": "videogames", "complexityType": "difference", "q_id": 813}
+{"question": "Please give me an explanation about ``The Last of Us 2''.", "entity": "The Last of Us 2", "category": "videogames", "complexityType": "difference", "q_id": 814}
+{"question": "Please give me an explanation about ``Dominican Republic''.", "entity": "Dominican Republic", "category": "sports", "complexityType": "multihop", "q_id": 815}
+{"question": "Please give me an explanation about ``Virginia''.", "entity": "Virginia", "category": "sports", "complexityType": "multihop", "q_id": 816}
+{"question": "Please give me an explanation about ``Joe Hill''.", "entity": "Joe Hill", "category": "books", "complexityType": "multihop", "q_id": 817}
+{"question": "Please give me an explanation about ``Laura Ingalls Wilder''.", "entity": "Laura Ingalls Wilder", "category": "books", "complexityType": "superlative", "q_id": 818}
+{"question": "Please give me an explanation about ``Madden NFL 09''.", "entity": "Madden NFL 09", "category": "videogames", "complexityType": "multihop", "q_id": 819}
+{"question": "Please give me an explanation about ``Raiden''.", "entity": "Raiden", "category": "videogames", "complexityType": "multihop", "q_id": 820}
+{"question": "Please give me an explanation about ``Bowser''.", "entity": "Bowser", "category": "videogames", "complexityType": "multihop", "q_id": 821}
+{"question": "Please give me an explanation about ``Cleopatra''.", "entity": "Cleopatra", "category": "history", "complexityType": "ordinal", "q_id": 822}
+{"question": "Please give me an explanation about ``Augustus''.", "entity": "Augustus", "category": "history", "complexityType": "ordinal", "q_id": 823}
+{"question": "Please give me an explanation about ``Katherine Parr''.", "entity": "Katherine Parr", "category": "history", "complexityType": "ordinal", "q_id": 824}
+{"question": "Please give me an explanation about ``Delaware''.", "entity": "Delaware", "category": "geography", "complexityType": "ordinal", "q_id": 825}
+{"question": "Please give me an explanation about ``Thomas Kirker''.", "entity": "Thomas Kirker", "category": "politics", "complexityType": "ordinal", "q_id": 826}
+{"question": "Please give me an explanation about ``tammy duckworth''.", "entity": "tammy duckworth", "category": "politics", "complexityType": "ordinal", "q_id": 827}
+{"question": "Please give me an explanation about ``William Rufus King''.", "entity": "William Rufus King", "category": "politics", "complexityType": "ordinal", "q_id": 828}
+{"question": "Please give me an explanation about ``Ulysses S. Grant''.", "entity": "Ulysses S. Grant", "category": "politics", "complexityType": "ordinal", "q_id": 829}
+{"question": "Please give me an explanation about ``Harry Potter and the Half-Blood Prince''.", "entity": "Harry Potter and the Half-Blood Prince", "category": "movies", "complexityType": "superlative", "q_id": 830}
+{"question": "Please give me an explanation about ``The Twilight Saga: New Moon''.", "entity": "The Twilight Saga: New Moon", "category": "movies", "complexityType": "superlative", "q_id": 831}
+{"question": "Please give me an explanation about ``Rhode Island''.", "entity": "Rhode Island", "category": "geography", "complexityType": "superlative", "q_id": 832}
+{"question": "Please give me an explanation about ``São Paulo''.", "entity": "São Paulo", "category": "geography", "complexityType": "superlative", "q_id": 833}
+{"question": "Please give me an explanation about ``Colima''.", "entity": "Colima", "category": "geography", "complexityType": "superlative", "q_id": 834}
+{"question": "Please give me an explanation about ``Missouri River''.", "entity": "Missouri River", "category": "geography", "complexityType": "superlative", "q_id": 835}
+{"question": "Please give me an explanation about ``Tomb Raider Chronicles''.", "entity": "Tomb Raider Chronicles", "category": "videogames", "complexityType": "ordinal", "q_id": 836}
+{"question": "Please give me an explanation about ``Final Fantasy VII''.", "entity": "Final Fantasy VII", "category": "videogames", "complexityType": "intersection", "q_id": 837}
+{"question": "Please give me an explanation about ``Super Smash Bros. Ultimate''.", "entity": "Super Smash Bros. Ultimate", "category": "videogames", "complexityType": "superlative", "q_id": 838}
+{"question": "Please give me an explanation about ``Gears of War I''.", "entity": "Gears of War I", "category": "videogames", "complexityType": "superlative", "q_id": 839}
+{"question": "Please give me an explanation about ``Ian McKellen''.", "entity": "Ian McKellen", "category": "movies", "complexityType": "generic", "q_id": 840}
+{"question": "Please give me an explanation about ``Garden Party''.", "entity": "Garden Party", "category": "movies", "complexityType": "generic", "q_id": 841}
+{"question": "Please give me an explanation about ``Vin Diesel''.", "entity": "Vin Diesel", "category": "movies", "complexityType": "generic", "q_id": 842}
+{"question": "Please give me an explanation about ``The Joker''.", "entity": "The Joker", "category": "movies", "complexityType": "generic", "q_id": 843}
+{"question": "Please give me an explanation about ``Critters 3''.", "entity": "Critters 3", "category": "movies", "complexityType": "generic", "q_id": 844}
+{"question": "Please give me an explanation about ``Katharine Hepburn''.", "entity": "Katharine Hepburn", "category": "movies", "complexityType": "generic", "q_id": 845}
+{"question": "Please give me an explanation about ``Johnny Depp''.", "entity": "Johnny Depp", "category": "movies", "complexityType": "generic", "q_id": 846}
+{"question": "Please give me an explanation about ``Daniel Radcliffe''.", "entity": "Daniel Radcliffe", "category": "movies", "complexityType": "generic", "q_id": 847}
+{"question": "Please give me an explanation about ``Jennifer Aniston''.", "entity": "Jennifer Aniston", "category": "movies", "complexityType": "generic", "q_id": 848}
+{"question": "Please give me an explanation about ``Griffith Observatory''.", "entity": "Griffith Observatory", "category": "movies", "complexityType": "generic", "q_id": 849}
+{"question": "Please give me an explanation about ``Love Simon''.", "entity": "Love Simon", "category": "movies", "complexityType": "generic", "q_id": 850}
+{"question": "Please give me an explanation about ``Michael Keaton''.", "entity": "Michael Keaton", "category": "movies", "complexityType": "generic", "q_id": 851}
+{"question": "Please give me an explanation about ``Northwestern University''.", "entity": "Northwestern University", "category": "movies", "complexityType": "generic", "q_id": 852}
+{"question": "Please give me an explanation about ``Jerry Seinfeld''.", "entity": "Jerry Seinfeld", "category": "movies", "complexityType": "generic", "q_id": 853}
+{"question": "Please give me an explanation about ``Titanic''.", "entity": "Titanic", "category": "movies", "complexityType": "generic", "q_id": 854}
+{"question": "Please give me an explanation about ``The Song of Bernadette''.", "entity": "The Song of Bernadette", "category": "movies", "complexityType": "generic", "q_id": 855}
+{"question": "Please give me an explanation about ``Maggie Gyllenhaal''.", "entity": "Maggie Gyllenhaal", "category": "movies", "complexityType": "generic", "q_id": 856}
+{"question": "Please give me an explanation about ``Kirk Douglas''.", "entity": "Kirk Douglas", "category": "movies", "complexityType": "generic", "q_id": 857}
+{"question": "Please give me an explanation about ``Brad Pitt''.", "entity": "Brad Pitt", "category": "movies", "complexityType": "generic", "q_id": 858}
+{"question": "Please give me an explanation about ``Antonio Banderas''.", "entity": "Antonio Banderas", "category": "movies", "complexityType": "generic", "q_id": 859}
+{"question": "Please give me an explanation about ``Clint Eastwood''.", "entity": "Clint Eastwood", "category": "movies", "complexityType": "generic", "q_id": 860}
+{"question": "Please give me an explanation about ``Breaking Bad''.", "entity": "Breaking Bad", "category": "movies", "complexityType": "generic", "q_id": 861}
+{"question": "Please give me an explanation about ``Rami Malek''.", "entity": "Rami Malek", "category": "movies", "complexityType": "generic", "q_id": 862}
+{"question": "Please give me an explanation about ``Goldie Hawn''.", "entity": "Goldie Hawn", "category": "movies", "complexityType": "generic", "q_id": 863}
+{"question": "Please give me an explanation about ``Brad Pitt''.", "entity": "Brad Pitt", "category": "movies", "complexityType": "generic", "q_id": 864}
+{"question": "Please give me an explanation about ``Jimmy Kimmel''.", "entity": "Jimmy Kimmel", "category": "movies", "complexityType": "generic", "q_id": 865}
+{"question": "Please give me an explanation about ``Jada Pinkett Smith''.", "entity": "Jada Pinkett Smith", "category": "movies", "complexityType": "generic", "q_id": 866}
+{"question": "Please give me an explanation about ``John 117''.", "entity": "John 117", "category": "movies", "complexityType": "generic", "q_id": 867}
+{"question": "Please give me an explanation about ``Fantastic Four''.", "entity": "Fantastic Four", "category": "movies", "complexityType": "generic", "q_id": 868}
+{"question": "Please give me an explanation about ``Olivia Colman''.", "entity": "Olivia Colman", "category": "movies", "complexityType": "generic", "q_id": 869}
+{"question": "Please give me an explanation about ``Tom Cruise''.", "entity": "Tom Cruise", "category": "movies", "complexityType": "generic", "q_id": 870}
+{"question": "Please give me an explanation about ``Tobey Maguire''.", "entity": "Tobey Maguire", "category": "movies", "complexityType": "generic", "q_id": 871}
+{"question": "Please give me an explanation about ``Iron Man''.", "entity": "Iron Man", "category": "movies", "complexityType": "generic", "q_id": 872}
+{"question": "Please give me an explanation about ``Debbie Reynolds''.", "entity": "Debbie Reynolds", "category": "movies", "complexityType": "generic", "q_id": 873}
+{"question": "Please give me an explanation about ``Marshall Bruce Mathers II''.", "entity": "Marshall Bruce Mathers II", "category": "movies", "complexityType": "generic", "q_id": 874}
+{"question": "Please give me an explanation about ``John Lee Hooker''.", "entity": "John Lee Hooker", "category": "music", "complexityType": "generic", "q_id": 875}
+{"question": "Please give me an explanation about ``Ronnie James Dio''.", "entity": "Ronnie James Dio", "category": "music", "complexityType": "generic", "q_id": 876}
+{"question": "Please give me an explanation about ``Eddie Van Halen''.", "entity": "Eddie Van Halen", "category": "music", "complexityType": "generic", "q_id": 877}
+{"question": "Please give me an explanation about ``On Through the Night''.", "entity": "On Through the Night", "category": "music", "complexityType": "generic", "q_id": 878}
+{"question": "Please give me an explanation about ``Pon de Replay''.", "entity": "Pon de Replay", "category": "music", "complexityType": "generic", "q_id": 879}
+{"question": "Please give me an explanation about ``accidental overdose''.", "entity": "accidental overdose", "category": "music", "complexityType": "generic", "q_id": 880}
+{"question": "Please give me an explanation about ``Sweden''.", "entity": "Sweden", "category": "music", "complexityType": "generic", "q_id": 881}
+{"question": "Please give me an explanation about ``Dangerously in Love''.", "entity": "Dangerously in Love", "category": "music", "complexityType": "generic", "q_id": 882}
+{"question": "Please give me an explanation about ``The Hot Five''.", "entity": "The Hot Five", "category": "music", "complexityType": "generic", "q_id": 883}
+{"question": "Please give me an explanation about ``Fine Line''.", "entity": "Fine Line", "category": "music", "complexityType": "generic", "q_id": 884}
+{"question": "Please give me an explanation about ``Detroit''.", "entity": "Detroit", "category": "music", "complexityType": "generic", "q_id": 885}
+{"question": "Please give me an explanation about ``Aenima''.", "entity": "Aenima", "category": "music", "complexityType": "generic", "q_id": 886}
+{"question": "Please give me an explanation about ``Paranoid''.", "entity": "Paranoid", "category": "music", "complexityType": "generic", "q_id": 887}
+{"question": "Please give me an explanation about ``Billie Eilish''.", "entity": "Billie Eilish", "category": "music", "complexityType": "generic", "q_id": 888}
+{"question": "Please give me an explanation about ``Calvin Cordozar Broadus''.", "entity": "Calvin Cordozar Broadus", "category": "music", "complexityType": "generic", "q_id": 889}
+{"question": "Please give me an explanation about ``Robert Johnson''.", "entity": "Robert Johnson", "category": "music", "complexityType": "generic", "q_id": 890}
+{"question": "Please give me an explanation about ``Presumed Innocent''.", "entity": "Presumed Innocent", "category": "music", "complexityType": "generic", "q_id": 891}
+{"question": "Please give me an explanation about ``Senorita''.", "entity": "Senorita", "category": "music", "complexityType": "generic", "q_id": 892}
+{"question": "Please give me an explanation about ``Kiss''.", "entity": "Kiss", "category": "music", "complexityType": "generic", "q_id": 893}
+{"question": "Please give me an explanation about ``Billy Ray Cyrus''.", "entity": "Billy Ray Cyrus", "category": "music", "complexityType": "generic", "q_id": 894}
+{"question": "Please give me an explanation about ``20th''.", "entity": "20th", "category": "music", "complexityType": "generic", "q_id": 895}
+{"question": "Please give me an explanation about ``Kelly Clarkson''.", "entity": "Kelly Clarkson", "category": "music", "complexityType": "generic", "q_id": 896}
+{"question": "Please give me an explanation about ``Australia''.", "entity": "Australia", "category": "music", "complexityType": "generic", "q_id": 897}
+{"question": "Please give me an explanation about ``Madonna''.", "entity": "Madonna", "category": "music", "complexityType": "generic", "q_id": 898}
+{"question": "Please give me an explanation about ``Jelly Roll Blues''.", "entity": "Jelly Roll Blues", "category": "music", "complexityType": "generic", "q_id": 899}
+{"question": "Please give me an explanation about ``Ice Ice Baby''.", "entity": "Ice Ice Baby", "category": "music", "complexityType": "generic", "q_id": 900}
+{"question": "Please give me an explanation about ``I Kissed a Girl''.", "entity": "I Kissed a Girl", "category": "music", "complexityType": "generic", "q_id": 901}
+{"question": "Please give me an explanation about ``CHRIS CORNELL''.", "entity": "CHRIS CORNELL", "category": "music", "complexityType": "generic", "q_id": 902}
+{"question": "Please give me an explanation about ``Los Angeles''.", "entity": "Los Angeles", "category": "music", "complexityType": "generic", "q_id": 903}
+{"question": "Please give me an explanation about ``Country Grammar''.", "entity": "Country Grammar", "category": "music", "complexityType": "generic", "q_id": 904}
+{"question": "Please give me an explanation about ``rock''.", "entity": "rock", "category": "music", "complexityType": "generic", "q_id": 905}
+{"question": "Please give me an explanation about ``Hoodoo Man Blues''.", "entity": "Hoodoo Man Blues", "category": "music", "complexityType": "generic", "q_id": 906}
+{"question": "Please give me an explanation about ``Tom Waits''.", "entity": "Tom Waits", "category": "music", "complexityType": "generic", "q_id": 907}
+{"question": "Please give me an explanation about ``Sweden''.", "entity": "Sweden", "category": "music", "complexityType": "generic", "q_id": 908}
+{"question": "Please give me an explanation about ``Wynter Gordon''.", "entity": "Wynter Gordon", "category": "music", "complexityType": "generic", "q_id": 909}
+{"question": "Please give me an explanation about ``Fearless''.", "entity": "Fearless", "category": "music", "complexityType": "generic", "q_id": 910}
+{"question": "Please give me an explanation about ``Supa Dupa Fly''.", "entity": "Supa Dupa Fly", "category": "music", "complexityType": "generic", "q_id": 911}
+{"question": "Please give me an explanation about ``Under Pressure''.", "entity": "Under Pressure", "category": "music", "complexityType": "generic", "q_id": 912}
+{"question": "Please give me an explanation about ``English''.", "entity": "English", "category": "music", "complexityType": "generic", "q_id": 913}
+{"question": "Please give me an explanation about ``Lace Up''.", "entity": "Lace Up", "category": "music", "complexityType": "generic", "q_id": 914}
+{"question": "Please give me an explanation about ``San Antonio''.", "entity": "San Antonio", "category": "sports", "complexityType": "generic", "q_id": 915}
+{"question": "Please give me an explanation about ``Drew Brees''.", "entity": "Drew Brees", "category": "sports", "complexityType": "generic", "q_id": 916}
+{"question": "Please give me an explanation about ``Rob Manfred''.", "entity": "Rob Manfred", "category": "sports", "complexityType": "generic", "q_id": 917}
+{"question": "Please give me an explanation about ``Ralph Hay''.", "entity": "Ralph Hay", "category": "sports", "complexityType": "generic", "q_id": 918}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "generic", "q_id": 919}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "generic", "q_id": 920}
+{"question": "Please give me an explanation about ``1906 Chicago Cubs''.", "entity": "1906 Chicago Cubs", "category": "sports", "complexityType": "generic", "q_id": 921}
+{"question": "Please give me an explanation about ``Connie Mack''.", "entity": "Connie Mack", "category": "sports", "complexityType": "generic", "q_id": 922}
+{"question": "Please give me an explanation about ``Chicago Cubs''.", "entity": "Chicago Cubs", "category": "sports", "complexityType": "generic", "q_id": 923}
+{"question": "Please give me an explanation about ``Mike Mercer''.", "entity": "Mike Mercer", "category": "sports", "complexityType": "generic", "q_id": 924}
+{"question": "Please give me an explanation about ``Los Angeles Memorial Coliseum''.", "entity": "Los Angeles Memorial Coliseum", "category": "sports", "complexityType": "generic", "q_id": 925}
+{"question": "Please give me an explanation about ``Steve Young''.", "entity": "Steve Young", "category": "sports", "complexityType": "generic", "q_id": 926}
+{"question": "Please give me an explanation about ``Ray Chapman''.", "entity": "Ray Chapman", "category": "sports", "complexityType": "generic", "q_id": 927}
+{"question": "Please give me an explanation about ``John Stockton''.", "entity": "John Stockton", "category": "sports", "complexityType": "generic", "q_id": 928}
+{"question": "Please give me an explanation about ``Phil Jackson''.", "entity": "Phil Jackson", "category": "sports", "complexityType": "generic", "q_id": 929}
+{"question": "Please give me an explanation about ``Emmitt Smith''.", "entity": "Emmitt Smith", "category": "sports", "complexityType": "generic", "q_id": 930}
+{"question": "Please give me an explanation about ``San Francisco Giants''.", "entity": "San Francisco Giants", "category": "sports", "complexityType": "generic", "q_id": 931}
+{"question": "Please give me an explanation about ``Peyton Manning''.", "entity": "Peyton Manning", "category": "sports", "complexityType": "generic", "q_id": 932}
+{"question": "Please give me an explanation about ``cincinnati reds''.", "entity": "cincinnati reds", "category": "sports", "complexityType": "generic", "q_id": 933}
+{"question": "Please give me an explanation about ``New York Giants''.", "entity": "New York Giants", "category": "sports", "complexityType": "generic", "q_id": 934}
+{"question": "Please give me an explanation about ``Birmingham Barons''.", "entity": "Birmingham Barons", "category": "sports", "complexityType": "generic", "q_id": 935}
+{"question": "Please give me an explanation about ``Cincinnati Red Stockings''.", "entity": "Cincinnati Red Stockings", "category": "sports", "complexityType": "generic", "q_id": 936}
+{"question": "Please give me an explanation about ``Terrell Owens''.", "entity": "Terrell Owens", "category": "sports", "complexityType": "generic", "q_id": 937}
+{"question": "Please give me an explanation about ``Wilt Chamberlain''.", "entity": "Wilt Chamberlain", "category": "sports", "complexityType": "generic", "q_id": 938}
+{"question": "Please give me an explanation about ``Barry Bonds''.", "entity": "Barry Bonds", "category": "sports", "complexityType": "generic", "q_id": 939}
+{"question": "Please give me an explanation about ``New York Yankees''.", "entity": "New York Yankees", "category": "sports", "complexityType": "generic", "q_id": 940}
+{"question": "Please give me an explanation about ``New England Patriots''.", "entity": "New England Patriots", "category": "sports", "complexityType": "generic", "q_id": 941}
+{"question": "Please give me an explanation about ``Mike Tomlin''.", "entity": "Mike Tomlin", "category": "sports", "complexityType": "generic", "q_id": 942}
+{"question": "Please give me an explanation about ``Jeff Driskel''.", "entity": "Jeff Driskel", "category": "sports", "complexityType": "generic", "q_id": 943}
+{"question": "Please give me an explanation about ``Phil Jackson''.", "entity": "Phil Jackson", "category": "sports", "complexityType": "generic", "q_id": 944}
+{"question": "Please give me an explanation about ``Coors Field''.", "entity": "Coors Field", "category": "sports", "complexityType": "generic", "q_id": 945}
+{"question": "Please give me an explanation about ``Tom Brady''.", "entity": "Tom Brady", "category": "sports", "complexityType": "generic", "q_id": 946}
+{"question": "Please give me an explanation about ``Timmy Smith''.", "entity": "Timmy Smith", "category": "sports", "complexityType": "generic", "q_id": 947}
+{"question": "Please give me an explanation about ``Tom Brady 6''.", "entity": "Tom Brady 6", "category": "sports", "complexityType": "generic", "q_id": 948}
+{"question": "Please give me an explanation about ``Reggie Jackson''.", "entity": "Reggie Jackson", "category": "sports", "complexityType": "generic", "q_id": 949}
+{"question": "Please give me an explanation about ``Don Shula''.", "entity": "Don Shula", "category": "sports", "complexityType": "generic", "q_id": 950}
+{"question": "Please give me an explanation about ``Phil Jackson''.", "entity": "Phil Jackson", "category": "sports", "complexityType": "generic", "q_id": 951}
+{"question": "Please give me an explanation about ``Detroit Pistons''.", "entity": "Detroit Pistons", "category": "sports", "complexityType": "generic", "q_id": 952}
+{"question": "Please give me an explanation about ``Colorado Rockies''.", "entity": "Colorado Rockies", "category": "sports", "complexityType": "generic", "q_id": 953}
+{"question": "Please give me an explanation about ``Los Angeles Lakers''.", "entity": "Los Angeles Lakers", "category": "sports", "complexityType": "generic", "q_id": 954}
+{"question": "Please give me an explanation about ``Ron Weasley''.", "entity": "Ron Weasley", "category": "books", "complexityType": "generic", "q_id": 955}
+{"question": "Please give me an explanation about ``Roald Dahl''.", "entity": "Roald Dahl", "category": "books", "complexityType": "generic", "q_id": 956}
+{"question": "Please give me an explanation about ``Tom Clancy''.", "entity": "Tom Clancy", "category": "books", "complexityType": "generic", "q_id": 957}
+{"question": "Please give me an explanation about ``Midnight Sun''.", "entity": "Midnight Sun", "category": "books", "complexityType": "generic", "q_id": 958}
+{"question": "Please give me an explanation about ``The Orchard Keeper''.", "entity": "The Orchard Keeper", "category": "books", "complexityType": "generic", "q_id": 959}
+{"question": "Please give me an explanation about ``Kevin Dwyer''.", "entity": "Kevin Dwyer", "category": "books", "complexityType": "generic", "q_id": 960}
+{"question": "Please give me an explanation about ``Lewis Carroll''.", "entity": "Lewis Carroll", "category": "books", "complexityType": "generic", "q_id": 961}
+{"question": "Please give me an explanation about ``Dan Brown''.", "entity": "Dan Brown", "category": "books", "complexityType": "generic", "q_id": 962}
+{"question": "Please give me an explanation about ``Bow and Arrow''.", "entity": "Bow and Arrow", "category": "books", "complexityType": "generic", "q_id": 963}
+{"question": "Please give me an explanation about ``Fifty Shades Freed''.", "entity": "Fifty Shades Freed", "category": "books", "complexityType": "generic", "q_id": 964}
+{"question": "Please give me an explanation about ``The Lorien Legacies''.", "entity": "The Lorien Legacies", "category": "books", "complexityType": "generic", "q_id": 965}
+{"question": "Please give me an explanation about ``Virginia Woolf''.", "entity": "Virginia Woolf", "category": "books", "complexityType": "generic", "q_id": 966}
+{"question": "Please give me an explanation about ``Gregor Samsa''.", "entity": "Gregor Samsa", "category": "books", "complexityType": "generic", "q_id": 967}
+{"question": "Please give me an explanation about ``A Study in Scarlet''.", "entity": "A Study in Scarlet", "category": "books", "complexityType": "generic", "q_id": 968}
+{"question": "Please give me an explanation about ``Scholastic''.", "entity": "Scholastic", "category": "books", "complexityType": "generic", "q_id": 969}
+{"question": "Please give me an explanation about ``Fyodor Dostoevsky''.", "entity": "Fyodor Dostoevsky", "category": "books", "complexityType": "generic", "q_id": 970}
+{"question": "Please give me an explanation about ``Doris Lessing''.", "entity": "Doris Lessing", "category": "books", "complexityType": "generic", "q_id": 971}
+{"question": "Please give me an explanation about ``District 12''.", "entity": "District 12", "category": "books", "complexityType": "generic", "q_id": 972}
+{"question": "Please give me an explanation about ``Daniel Handler''.", "entity": "Daniel Handler", "category": "books", "complexityType": "generic", "q_id": 973}
+{"question": "Please give me an explanation about ``Stephen King''.", "entity": "Stephen King", "category": "books", "complexityType": "generic", "q_id": 974}
+{"question": "Please give me an explanation about ``Eeyore''.", "entity": "Eeyore", "category": "books", "complexityType": "generic", "q_id": 975}
+{"question": "Please give me an explanation about ``Suzanne Collins''.", "entity": "Suzanne Collins", "category": "books", "complexityType": "generic", "q_id": 976}
+{"question": "Please give me an explanation about ``Worldbuilders''.", "entity": "Worldbuilders", "category": "books", "complexityType": "generic", "q_id": 977}
+{"question": "Please give me an explanation about ``Camp Green Lake''.", "entity": "Camp Green Lake", "category": "books", "complexityType": "generic", "q_id": 978}
+{"question": "Please give me an explanation about ``Sister of Anne Boleyn''.", "entity": "Sister of Anne Boleyn", "category": "books", "complexityType": "generic", "q_id": 979}
+{"question": "Please give me an explanation about ``Mockingjay''.", "entity": "Mockingjay", "category": "books", "complexityType": "generic", "q_id": 980}
+{"question": "Please give me an explanation about ``The London Paddington station''.", "entity": "The London Paddington station", "category": "books", "complexityType": "generic", "q_id": 981}
+{"question": "Please give me an explanation about ``Stanford''.", "entity": "Stanford", "category": "books", "complexityType": "generic", "q_id": 982}
+{"question": "Please give me an explanation about ``Nathaniel Hawthorne''.", "entity": "Nathaniel Hawthorne", "category": "books", "complexityType": "generic", "q_id": 983}
+{"question": "Please give me an explanation about ``the elder Zosima''.", "entity": "the elder Zosima", "category": "books", "complexityType": "generic", "q_id": 984}
+{"question": "Please give me an explanation about ``Baudelaire''.", "entity": "Baudelaire", "category": "books", "complexityType": "generic", "q_id": 985}
+{"question": "Please give me an explanation about ``Seattle''.", "entity": "Seattle", "category": "geography", "complexityType": "generic", "q_id": 986}
+{"question": "Please give me an explanation about ``Austin''.", "entity": "Austin", "category": "geography", "complexityType": "generic", "q_id": 987}
+{"question": "Please give me an explanation about ``Italy''.", "entity": "Italy", "category": "geography", "complexityType": "generic", "q_id": 988}
+{"question": "Please give me an explanation about ``New York City''.", "entity": "New York City", "category": "geography", "complexityType": "generic", "q_id": 989}
+{"question": "Please give me an explanation about ``Solomon Willard''.", "entity": "Solomon Willard", "category": "geography", "complexityType": "generic", "q_id": 990}
+{"question": "Please give me an explanation about ``Philadelphia''.", "entity": "Philadelphia", "category": "geography", "complexityType": "generic", "q_id": 991}
+{"question": "Please give me an explanation about ``Thaddeus Kosciuszko National Memorial''.", "entity": "Thaddeus Kosciuszko National Memorial", "category": "geography", "complexityType": "generic", "q_id": 992}
+{"question": "Please give me an explanation about ``New York City''.", "entity": "New York City", "category": "geography", "complexityType": "generic", "q_id": 993}
+{"question": "Please give me an explanation about ``Egypt''.", "entity": "Egypt", "category": "geography", "complexityType": "generic", "q_id": 994}
+{"question": "Please give me an explanation about ``Vatican City''.", "entity": "Vatican City", "category": "geography", "complexityType": "generic", "q_id": 995}
+{"question": "Please give me an explanation about ``Eero Saarinen''.", "entity": "Eero Saarinen", "category": "geography", "complexityType": "generic", "q_id": 996}
+{"question": "Please give me an explanation about ``SEATTLE''.", "entity": "SEATTLE", "category": "geography", "complexityType": "generic", "q_id": 997}
+{"question": "Please give me an explanation about ``Enduring loyalty''.", "entity": "Enduring loyalty", "category": "geography", "complexityType": "generic", "q_id": 998}
+{"question": "Please give me an explanation about ``Brazil''.", "entity": "Brazil", "category": "geography", "complexityType": "generic", "q_id": 999}
+{"question": "Please give me an explanation about ``Sin City''.", "entity": "Sin City", "category": "geography", "complexityType": "generic", "q_id": 1000}
+{"question": "Please give me an explanation about ``New York''.", "entity": "New York", "category": "geography", "complexityType": "generic", "q_id": 1001}
+{"question": "Please give me an explanation about ``South Dakota''.", "entity": "South Dakota", "category": "geography", "complexityType": "generic", "q_id": 1002}
+{"question": "Please give me an explanation about ``Quito''.", "entity": "Quito", "category": "geography", "complexityType": "generic", "q_id": 1003}
+{"question": "Please give me an explanation about ``Gutzon Borglum''.", "entity": "Gutzon Borglum", "category": "geography", "complexityType": "generic", "q_id": 1004}
+{"question": "Please give me an explanation about ``Gutszon and Lincoln Borglum''.", "entity": "Gutszon and Lincoln Borglum", "category": "geography", "complexityType": "generic", "q_id": 1005}
+{"question": "Please give me an explanation about ``Istanbul''.", "entity": "Istanbul", "category": "geography", "complexityType": "generic", "q_id": 1006}
+{"question": "Please give me an explanation about ``Minneapolis''.", "entity": "Minneapolis", "category": "geography", "complexityType": "generic", "q_id": 1007}
+{"question": "Please give me an explanation about ``Detroit''.", "entity": "Detroit", "category": "geography", "complexityType": "generic", "q_id": 1008}
+{"question": "Please give me an explanation about ``New York City''.", "entity": "New York City", "category": "geography", "complexityType": "generic", "q_id": 1009}
+{"question": "Please give me an explanation about ``Easter Island''.", "entity": "Easter Island", "category": "geography", "complexityType": "generic", "q_id": 1010}
+{"question": "Please give me an explanation about ``Los Angeles''.", "entity": "Los Angeles", "category": "geography", "complexityType": "generic", "q_id": 1011}
+{"question": "Please give me an explanation about ``France''.", "entity": "France", "category": "geography", "complexityType": "generic", "q_id": 1012}
+{"question": "Please give me an explanation about ``Madrid''.", "entity": "Madrid", "category": "geography", "complexityType": "generic", "q_id": 1013}
+{"question": "Please give me an explanation about ``Geneva''.", "entity": "Geneva", "category": "geography", "complexityType": "generic", "q_id": 1014}
+{"question": "Please give me an explanation about ``California''.", "entity": "California", "category": "geography", "complexityType": "generic", "q_id": 1015}
+{"question": "Please give me an explanation about ``William McKinley''.", "entity": "William McKinley", "category": "politics", "complexityType": "generic", "q_id": 1016}
+{"question": "Please give me an explanation about ``President Taft''.", "entity": "President Taft", "category": "politics", "complexityType": "generic", "q_id": 1017}
+{"question": "Please give me an explanation about ``Spanish''.", "entity": "Spanish", "category": "politics", "complexityType": "generic", "q_id": 1018}
+{"question": "Please give me an explanation about ``Donald J Trump''.", "entity": "Donald J Trump", "category": "politics", "complexityType": "generic", "q_id": 1019}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "politics", "complexityType": "generic", "q_id": 1020}
+{"question": "Please give me an explanation about ``Finland''.", "entity": "Finland", "category": "politics", "complexityType": "generic", "q_id": 1021}
+{"question": "Please give me an explanation about ``Alejandro Guillier''.", "entity": "Alejandro Guillier", "category": "politics", "complexityType": "generic", "q_id": 1022}
+{"question": "Please give me an explanation about ``Cyril Ramaphosa''.", "entity": "Cyril Ramaphosa", "category": "politics", "complexityType": "generic", "q_id": 1023}
+{"question": "Please give me an explanation about ``Barack Obama''.", "entity": "Barack Obama", "category": "politics", "complexityType": "generic", "q_id": 1024}
+{"question": "Please give me an explanation about ``John Hanson''.", "entity": "John Hanson", "category": "politics", "complexityType": "generic", "q_id": 1025}
+{"question": "Please give me an explanation about ``Iran and Iraq''.", "entity": "Iran and Iraq", "category": "politics", "complexityType": "generic", "q_id": 1026}
+{"question": "Please give me an explanation about ``Germany''.", "entity": "Germany", "category": "politics", "complexityType": "generic", "q_id": 1027}
+{"question": "Please give me an explanation about ``William McKinley''.", "entity": "William McKinley", "category": "politics", "complexityType": "generic", "q_id": 1028}
+{"question": "Please give me an explanation about ``NIGERIA''.", "entity": "NIGERIA", "category": "politics", "complexityType": "generic", "q_id": 1029}
+{"question": "Please give me an explanation about ``House of Thani''.", "entity": "House of Thani", "category": "politics", "complexityType": "generic", "q_id": 1030}
+{"question": "Please give me an explanation about ``Emmerson Mnangagwa''.", "entity": "Emmerson Mnangagwa", "category": "politics", "complexityType": "generic", "q_id": 1031}
+{"question": "Please give me an explanation about ``James Buchanan''.", "entity": "James Buchanan", "category": "politics", "complexityType": "generic", "q_id": 1032}
+{"question": "Please give me an explanation about ``The Royal Observatory''.", "entity": "The Royal Observatory", "category": "politics", "complexityType": "generic", "q_id": 1033}
+{"question": "Please give me an explanation about ``Year of Africa''.", "entity": "Year of Africa", "category": "politics", "complexityType": "generic", "q_id": 1034}
+{"question": "Please give me an explanation about ``Prudente de Morais''.", "entity": "Prudente de Morais", "category": "politics", "complexityType": "generic", "q_id": 1035}
+{"question": "Please give me an explanation about ``Andrew Johnson''.", "entity": "Andrew Johnson", "category": "politics", "complexityType": "generic", "q_id": 1036}
+{"question": "Please give me an explanation about ``House of Commons''.", "entity": "House of Commons", "category": "politics", "complexityType": "generic", "q_id": 1037}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "politics", "complexityType": "generic", "q_id": 1038}
+{"question": "Please give me an explanation about ``Abraham Lincoln''.", "entity": "Abraham Lincoln", "category": "politics", "complexityType": "generic", "q_id": 1039}
+{"question": "Please give me an explanation about ``House of Representatives''.", "entity": "House of Representatives", "category": "politics", "complexityType": "generic", "q_id": 1040}
+{"question": "Please give me an explanation about ``Salman of Saudi Arabia''.", "entity": "Salman of Saudi Arabia", "category": "politics", "complexityType": "generic", "q_id": 1041}
+{"question": "Please give me an explanation about ``Luis Arce''.", "entity": "Luis Arce", "category": "politics", "complexityType": "generic", "q_id": 1042}
+{"question": "Please give me an explanation about ``Uruguay''.", "entity": "Uruguay", "category": "politics", "complexityType": "generic", "q_id": 1043}
+{"question": "Please give me an explanation about ``Xi Jinping''.", "entity": "Xi Jinping", "category": "politics", "complexityType": "generic", "q_id": 1044}
+{"question": "Please give me an explanation about ``Francisco Sagasti''.", "entity": "Francisco Sagasti", "category": "politics", "complexityType": "generic", "q_id": 1045}
+{"question": "Please give me an explanation about ``Menachem Begin''.", "entity": "Menachem Begin", "category": "politics", "complexityType": "generic", "q_id": 1046}
+{"question": "Please give me an explanation about ``Quechua''.", "entity": "Quechua", "category": "history", "complexityType": "generic", "q_id": 1047}
+{"question": "Please give me an explanation about ``Nikola Tesla''.", "entity": "Nikola Tesla", "category": "history", "complexityType": "generic", "q_id": 1048}
+{"question": "Please give me an explanation about ``Greece''.", "entity": "Greece", "category": "history", "complexityType": "generic", "q_id": 1049}
+{"question": "Please give me an explanation about ``Duel''.", "entity": "Duel", "category": "history", "complexityType": "generic", "q_id": 1050}
+{"question": "Please give me an explanation about ``Jefferson Davis''.", "entity": "Jefferson Davis", "category": "history", "complexityType": "generic", "q_id": 1051}
+{"question": "Please give me an explanation about ``Bombing of Tokyo''.", "entity": "Bombing of Tokyo", "category": "history", "complexityType": "generic", "q_id": 1052}
+{"question": "Please give me an explanation about ``Aztec''.", "entity": "Aztec", "category": "history", "complexityType": "generic", "q_id": 1053}
+{"question": "Please give me an explanation about ``1600 bc''.", "entity": "1600 bc", "category": "history", "complexityType": "generic", "q_id": 1054}
+{"question": "Please give me an explanation about ``Babylon''.", "entity": "Babylon", "category": "history", "complexityType": "generic", "q_id": 1055}
+{"question": "Please give me an explanation about ``South Carolina''.", "entity": "South Carolina", "category": "history", "complexityType": "generic", "q_id": 1056}
+{"question": "Please give me an explanation about ``Pol Pot''.", "entity": "Pol Pot", "category": "history", "complexityType": "generic", "q_id": 1057}
+{"question": "Please give me an explanation about ``The Soviet Union''.", "entity": "The Soviet Union", "category": "history", "complexityType": "generic", "q_id": 1058}
+{"question": "Please give me an explanation about ``Caligula''.", "entity": "Caligula", "category": "history", "complexityType": "generic", "q_id": 1059}
+{"question": "Please give me an explanation about ``A geomagnetic storm''.", "entity": "A geomagnetic storm", "category": "history", "complexityType": "generic", "q_id": 1060}
+{"question": "Please give me an explanation about ``Red Eyebrows Rebellion''.", "entity": "Red Eyebrows Rebellion", "category": "history", "complexityType": "generic", "q_id": 1061}
+{"question": "Please give me an explanation about ``Woodrow Wilson''.", "entity": "Woodrow Wilson", "category": "history", "complexityType": "generic", "q_id": 1062}
+{"question": "Please give me an explanation about ``The Olmec''.", "entity": "The Olmec", "category": "history", "complexityType": "generic", "q_id": 1063}
+{"question": "Please give me an explanation about ``Nile River''.", "entity": "Nile River", "category": "history", "complexityType": "generic", "q_id": 1064}
+{"question": "Please give me an explanation about ``Hatshepsut''.", "entity": "Hatshepsut", "category": "history", "complexityType": "generic", "q_id": 1065}
+{"question": "Please give me an explanation about ``George Washington''.", "entity": "George Washington", "category": "history", "complexityType": "generic", "q_id": 1066}
+{"question": "Please give me an explanation about ``Stonewall''.", "entity": "Stonewall", "category": "history", "complexityType": "generic", "q_id": 1067}
+{"question": "Please give me an explanation about ``Rome''.", "entity": "Rome", "category": "history", "complexityType": "generic", "q_id": 1068}
+{"question": "Please give me an explanation about ``Han''.", "entity": "Han", "category": "history", "complexityType": "generic", "q_id": 1069}
+{"question": "Please give me an explanation about ``Ronald Reagan''.", "entity": "Ronald Reagan", "category": "history", "complexityType": "generic", "q_id": 1070}
+{"question": "Please give me an explanation about ``American Revolutionary War''.", "entity": "American Revolutionary War", "category": "history", "complexityType": "generic", "q_id": 1071}
+{"question": "Please give me an explanation about ``Persia''.", "entity": "Persia", "category": "history", "complexityType": "generic", "q_id": 1072}
+{"question": "Please give me an explanation about ``Iraq''.", "entity": "Iraq", "category": "history", "complexityType": "generic", "q_id": 1073}
+{"question": "Please give me an explanation about ``Delphi''.", "entity": "Delphi", "category": "history", "complexityType": "generic", "q_id": 1074}
+{"question": "Please give me an explanation about ``France''.", "entity": "France", "category": "history", "complexityType": "generic", "q_id": 1075}
+{"question": "Please give me an explanation about ``Zhou dynasty''.", "entity": "Zhou dynasty", "category": "history", "complexityType": "generic", "q_id": 1076}
+{"question": "Please give me an explanation about ``The Battle of Gettysburg''.", "entity": "The Battle of Gettysburg", "category": "history", "complexityType": "generic", "q_id": 1077}
+{"question": "Please give me an explanation about ``Jane Hajduk''.", "entity": "Jane Hajduk", "category": "movies", "complexityType": "generic", "q_id": 1078}
+{"question": "Please give me an explanation about ``La La Land''.", "entity": "La La Land", "category": "movies", "complexityType": "generic", "q_id": 1079}
+{"question": "Please give me an explanation about ``The Beatles''.", "entity": "The Beatles", "category": "music", "complexityType": "generic", "q_id": 1080}
+{"question": "Please give me an explanation about ``Mariah Carey''.", "entity": "Mariah Carey", "category": "music", "complexityType": "generic", "q_id": 1081}
+{"question": "Please give me an explanation about ``An elephant''.", "entity": "An elephant", "category": "books", "complexityType": "generic", "q_id": 1082}
+{"question": "Please give me an explanation about ``Paris''.", "entity": "Paris", "category": "geography", "complexityType": "generic", "q_id": 1083}
+{"question": "Please give me an explanation about ``Xi Jinping''.", "entity": "Xi Jinping", "category": "politics", "complexityType": "generic", "q_id": 1084}
+{"question": "Please give me an explanation about ``Ministry of Culture''.", "entity": "Ministry of Culture", "category": "politics", "complexityType": "generic", "q_id": 1085}
+{"question": "Please give me an explanation about ``Franklin Roosevelt''.", "entity": "Franklin Roosevelt", "category": "politics", "complexityType": "generic", "q_id": 1086}
+{"question": "Please give me an explanation about ``Bay of Pigs''.", "entity": "Bay of Pigs", "category": "history", "complexityType": "generic", "q_id": 1087}
+{"question": "Please give me an explanation about ``Conquests of Timur''.", "entity": "Conquests of Timur", "category": "history", "complexityType": "generic", "q_id": 1088}
+{"question": "Please give me an explanation about ``King Henry VIII''.", "entity": "King Henry VIII", "category": "history", "complexityType": "generic", "q_id": 1089}
+{"question": "Please give me an explanation about ``Solid Snake''.", "entity": "Solid Snake", "category": "videogames", "complexityType": "generic", "q_id": 1090}
+{"question": "Please give me an explanation about ``Princess Peach''.", "entity": "Princess Peach", "category": "videogames", "complexityType": "generic", "q_id": 1091}
+{"question": "Please give me an explanation about ``Luigi''.", "entity": "Luigi", "category": "videogames", "complexityType": "generic", "q_id": 1092}
+{"question": "Please give me an explanation about ``Wario''.", "entity": "Wario", "category": "videogames", "complexityType": "generic", "q_id": 1093}
+{"question": "Please give me an explanation about ``Princess Peach''.", "entity": "Princess Peach", "category": "videogames", "complexityType": "generic", "q_id": 1094}
+{"question": "Please give me an explanation about ``Zelda (Legend of Zelda) and Cody (Final Flight)''.", "entity": "Zelda (Legend of Zelda) and Cody (Final Flight)", "category": "videogames", "complexityType": "generic", "q_id": 1095}
+{"question": "Please give me an explanation about ``Maxis''.", "entity": "Maxis", "category": "videogames", "complexityType": "generic", "q_id": 1096}
+{"question": "Please give me an explanation about ``Vaults''.", "entity": "Vaults", "category": "videogames", "complexityType": "generic", "q_id": 1097}
+{"question": "Please give me an explanation about ``BioWare''.", "entity": "BioWare", "category": "videogames", "complexityType": "generic", "q_id": 1098}
+{"question": "Please give me an explanation about ``Spira''.", "entity": "Spira", "category": "videogames", "complexityType": "generic", "q_id": 1099}
+{"question": "Please give me an explanation about ``Madeline''.", "entity": "Madeline", "category": "videogames", "complexityType": "generic", "q_id": 1100}
+{"question": "Please give me an explanation about ``Liberty City''.", "entity": "Liberty City", "category": "videogames", "complexityType": "generic", "q_id": 1101}
+{"question": "Please give me an explanation about ``Epic Games''.", "entity": "Epic Games", "category": "videogames", "complexityType": "generic", "q_id": 1102}
+{"question": "Please give me an explanation about ``ubisoft''.", "entity": "ubisoft", "category": "videogames", "complexityType": "generic", "q_id": 1103}
+{"question": "Please give me an explanation about ``Mike Tyson''.", "entity": "Mike Tyson", "category": "videogames", "complexityType": "generic", "q_id": 1104}
+{"question": "Please give me an explanation about ``Aeon of Strife''.", "entity": "Aeon of Strife", "category": "videogames", "complexityType": "generic", "q_id": 1105}
+{"question": "Please give me an explanation about ``Riot Games''.", "entity": "Riot Games", "category": "videogames", "complexityType": "generic", "q_id": 1106}
+{"question": "Please give me an explanation about ``Goodsprings''.", "entity": "Goodsprings", "category": "videogames", "complexityType": "generic", "q_id": 1107}
+{"question": "Please give me an explanation about ``Miles \"Tails\" Prower''.", "entity": "Miles \"Tails\" Prower", "category": "videogames", "complexityType": "generic", "q_id": 1108}
+{"question": "Please give me an explanation about ``Tetris with 495 million+.''.", "entity": "Tetris with 495 million+.", "category": "videogames", "complexityType": "generic", "q_id": 1109}
+{"question": "Please give me an explanation about ``Steel''.", "entity": "Steel", "category": "videogames", "complexityType": "generic", "q_id": 1110}
+{"question": "Please give me an explanation about ``She was shot''.", "entity": "She was shot", "category": "videogames", "complexityType": "generic", "q_id": 1111}
+{"question": "Please give me an explanation about ``Sparta''.", "entity": "Sparta", "category": "videogames", "complexityType": "generic", "q_id": 1112}
+{"question": "Please give me an explanation about ``Sylvanas Windrunner''.", "entity": "Sylvanas Windrunner", "category": "videogames", "complexityType": "generic", "q_id": 1113}
+{"question": "Please give me an explanation about ``Hollow Knight: Silksong''.", "entity": "Hollow Knight: Silksong", "category": "videogames", "complexityType": "generic", "q_id": 1114}
+{"question": "Please give me an explanation about ``Nathan Drake''.", "entity": "Nathan Drake", "category": "videogames", "complexityType": "generic", "q_id": 1115}
+{"question": "Please give me an explanation about ``Eastern barred bandicoot''.", "entity": "Eastern barred bandicoot", "category": "videogames", "complexityType": "generic", "q_id": 1116}
+{"question": "Please give me an explanation about ``Among Us''.", "entity": "Among Us", "category": "videogames", "complexityType": "generic", "q_id": 1117}
+{"question": "Please give me an explanation about ``Hawke''.", "entity": "Hawke", "category": "videogames", "complexityType": "generic", "q_id": 1118}
+{"question": "Please give me an explanation about ``Trevor Philips''.", "entity": "Trevor Philips", "category": "videogames", "complexityType": "generic", "q_id": 1119}
+{"question": "Please give me an explanation about ``Hyrule''.", "entity": "Hyrule", "category": "videogames", "complexityType": "generic", "q_id": 1120}
+{"question": "Please give me an explanation about ``Boston and surrounding area''.", "entity": "Boston and surrounding area", "category": "videogames", "complexityType": "generic", "q_id": 1121}
+{"question": "Please give me an explanation about ``Hyrule Kingdom''.", "entity": "Hyrule Kingdom", "category": "videogames", "complexityType": "generic", "q_id": 1122}
+{"question": "Please give me an explanation about ``Super Mario Brothers''.", "entity": "Super Mario Brothers", "category": "videogames", "complexityType": "generic", "q_id": 1123}
+{"question": "Please give me an explanation about ``Blizzard North''.", "entity": "Blizzard North", "category": "videogames", "complexityType": "generic", "q_id": 1124}
+{"question": "Please give me an explanation about ``Oxford Brookes University''.", "entity": "Oxford Brookes University", "category": "geography", "complexityType": "ordinal", "q_id": 1125}
+{"question": "Please give me an explanation about ``Poseidon: Master of Atlantis''.", "entity": "Poseidon: Master of Atlantis", "category": "videogames", "complexityType": "intersection", "q_id": 1126}
+{"question": "Please give me an explanation about ``Emperor Claudius''.", "entity": "Emperor Claudius", "category": "history", "complexityType": "ordinal", "q_id": 1127}
+{"question": "Please give me an explanation about ``British Academy Games Award for Best Game''.", "entity": "British Academy Games Award for Best Game", "category": "videogames", "complexityType": "multihop", "q_id": 1128}
+{"question": "Please give me an explanation about ``Robert Gascoyne-Cecil''.", "entity": "Robert Gascoyne-Cecil", "category": "politics", "complexityType": "ordinal", "q_id": 1129}
+{"question": "Please give me an explanation about ``Guards! Guards!''.", "entity": "Guards! Guards!", "category": "books", "complexityType": "ordinal", "q_id": 1130}
