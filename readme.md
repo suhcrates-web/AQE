@@ -1,4 +1,3 @@
-
 # Quantifying Self-Awareness of Knowledge in Large Language Models
 
 ---
@@ -83,13 +82,13 @@ You should input your huggingface authorization token, which is authorized to do
 
 ### 1) short-from question answering (ParaRelOOD, Mintaka, HaluEval, HotpotQA)
 
-For FoK labeling of each datasets, run following bash command
+For $k$ labeling of each datasets, run following bash command
 
 ```bash
-bash scripts/sk2_1_fok_label_pararel.sh
+bash scripts/sk2_1_k_label_mintaka.sh
 ```
 
-`sk2_1_fok_label_pararel.sh`  contains following script
+`sk2_1_k_label_mintaka.sh`  contains following script
 
 ```bash
 python s2_1_k_label_short_form.py \
@@ -100,7 +99,7 @@ python s2_1_k_label_short_form.py \
 
 ### 2) long-form question answering (Explain)
 
-For FoK labeling of each datasets, run following bash command
+For $k$ labeling of each datasets, run following bash command
 
 ```jsx
 bash scripts/sk2_3_k_label_explain.sh
@@ -118,11 +117,11 @@ python s2_2_k_label_long_form.py \
 
 You should input your openai api key for the ``api_key'' parameter.
 
-And further parse the G-eval statements into FoK_label value, through  **`s2_2_g_eval_parse.ipynb`** file. Follow the instruction in the file.
+And further parse the G-eval statements into k_label value, through  **`s2_2_g_eval_parse.ipynb`** file. Follow the instruction in the file.
 
 # step4. Extracting information from LLM (confidence, hidden state)
 
-In this step, we extract the information of LLM (confience, hidden state of the first token of the answer) and make dataset for train and evaluate the FoK module $\phi$.
+In this step, we extract the information of LLM (confience, hidden state of the first token of the answer) and make dataset for train and evaluate the $k$-prediction module $\phi$.
 
 For extracting information from LLM, run following bash command.
 
@@ -135,7 +134,7 @@ bash scripts/sk3_1_extract_information_mintaka.sh
 ```bash
 python s3_extract_information.py \
 --model_name="meta-llama/Meta-Llama-3-8B-Instruct" \
---test_data="./datasets/d3_datasts_fok_labled/ParaRel_OOD/pararel_ID_Meta-Llama-3-8B-Instruct.jsonl" \
+--test_data="./datasets/d3_datasts_k_labled/ParaRel_OOD/pararel_ID_Meta-Llama-3-8B-Instruct.jsonl" \
 --token="your_token" \
 --cache="your_cache"
 
@@ -146,7 +145,7 @@ You should input your huggingface authorization token, which is authorized to do
 
 # Step5. Evaluation.
 
-In this step, we evaluate the method of FoK module $\phi$ on each datasets.
+In this step, we evaluate the method of $k$-prediction module $\phi$ on each datasets.
 
 Evaluation file depends on the method type.
 

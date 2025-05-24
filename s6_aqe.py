@@ -128,10 +128,10 @@ def eval(model, dataloader0):
             pred = model(query=tokens)
 
             preds.extend(pred.cpu())
-            labels.extend(batch[args.fok_label].float().cpu())
+            labels.extend(batch[args.k_label].float().cpu())
 
             pred_binary = (pred >= 0.5).float()
-            label = batch[args.fok_label].float().to(0).unsqueeze(-1)
+            label = batch[args.k_label].float().to(0).unsqueeze(-1)
             correct_sum += (pred_binary == label).sum()
             # break
 
@@ -156,7 +156,7 @@ for epoch in range(max_epochs):
         tokens = tokenizer(batch['question'], return_tensors='pt', padding=True, truncation=True).to(0)
 
         pred = model(query=tokens)
-        loss = criterion(pred,  batch[args.fok_label].float().to(0).unsqueeze(-1))
+        loss = criterion(pred,  batch[args.k_label].float().to(0).unsqueeze(-1))
         loss.backward()
         optimizer.step()
         optimizer.zero_grad()

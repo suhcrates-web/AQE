@@ -47,17 +47,17 @@ python s6_aqe.py \
 # pararel ID
 python s6_aqe.py \
 --benchmark="train_split" \
---train_data="/convei_nas2/ybseo/idk_study/make_idk_tf/results/pararel/training_data_Meta-Llama-3-8B-Instruct_somewords_token50.jsonl" \
+--train_data="datasets/d4_datasets_refined/ParaRel/original/pararel_training_data_Meta-Llama-3-8B-Instruct.jsonl" \
 --dev_data="" \
---test_data="/convei_nas2/ybseo/idk_study/make_idk_tf/results/pararel/ID_test_Meta-Llama-3-8B-Instruct_somewords_token50.jsonl" \
+--test_data="datasets/d4_datasets_refined/ParaRel/original/pararel_ID_Meta-Llama-3-8B-Instruct.jsonl" \
 --output="results/aqe/pararel_ID_Meta-Llama-3-8B-Instruct_token50.json" 
 
 # pararel OOD
 python s6_aqe.py \
 --benchmark="split" \
---train_data="/convei_nas2/ybseo/idk_study/make_idk_tf/results/pararel/training_data_Meta-Llama-3-8B-Instruct_somewords_token50.jsonl" \
---dev_data="/convei_nas2/ybseo/idk_study/make_idk_tf/results/pararel/ID_test_Meta-Llama-3-8B-Instruct_somewords_token50.jsonl" \
---test_data="/convei_nas2/ybseo/idk_study/make_idk_tf/results/pararel/OOD_test_Meta-Llama-3-8B-Instruct_somewords_token50.jsonl" \
+--train_data="datasets/d4_datasets_refined/ParaRel/original/pararel_training_data_Meta-Llama-3-8B-Instruct.jsonl" \
+--dev_data="datasets/d4_datasets_refined/ParaRel/original/pararel_ID_Meta-Llama-3-8B-Instruct.jsonl" \
+--test_data="datasets/d4_datasets_refined/ParaRel/original/pararel_OOD_Meta-Llama-3-8B-Instruct.jsonl" \
 --output="results/aqe/pararel_OOD_Meta-Llama-3-8B-Instruct_token50.json" 
 
 

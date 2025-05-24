@@ -108,7 +108,7 @@ elif 'Llama-2-13b-chat-hf' in args.model_name:
 
 
 with jsonlines.open(f"results/{args.benchmark}_{args.text_key}_{args.model_name.split('/')[-1]}.jsonl", 'w') as writer:
-    fok_correct = 0
+    k_correct = 0
     for line in tqdm(test_data):
         tokens = tokenizer(line['q_only_verify'], return_tensors='pt').to(0)
         with torch.no_grad():
@@ -120,10 +120,10 @@ with jsonlines.open(f"results/{args.benchmark}_{args.text_key}_{args.model_name.
             sure_prob = sure_prob/(sure_prob+unsure_prob) 
             sure_prob = sure_prob.cpu().tolist()
             line['sure_prob'] = sure_prob
-            line['fok_correct'] = (sure_prob >0.5) == line['naive_correct']
-            fok_correct += int(line['fok_correct'])
+            line['k_correct'] = (sure_prob >0.5) == line['naive_correct']
+            k_correct += int(line['k_correct'])
 
         
         writer.write(line)
 
-print(f"total: {len(test_data)} / acc num : {fok_correct} / acc: {fok_correct / len(test_data)}")
+print(f"total: {len(test_data)} / acc num : {k_correct} / acc: {k_correct / len(test_data)}")

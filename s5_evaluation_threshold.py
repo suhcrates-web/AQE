@@ -19,7 +19,7 @@ parser.add_argument('--method', type=str, default='scao_thre')
 parser.add_argument('--train_data', type=str, default='') 
 parser.add_argument('--dev_data', type=str, default='') 
 parser.add_argument('--test_data', type=str, default='') 
-parser.add_argument('--k_label', type=str, default='fok_naive') 
+parser.add_argument('--k_label', type=str, default='') 
 parser.add_argument('--output', type=str, default='') 
 args = parser.parse_args()
 ###### 
